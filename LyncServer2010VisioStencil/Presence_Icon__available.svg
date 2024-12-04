@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="0.8333000000" height="0.8333000000" viewBox="0 0 60.0000 60.0000">
+  <title><![CDATA[Presence Icon, available]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M52.6215,60.0000 L7.3770,60.0000 C3.3090,60.0000 0.0000,56.6910 0.0000,52.6230 L0.0000,7.3770 C0.0000,3.3090 3.3090,0.0000 7.3770,0.0000 L52.6215,0.0000 C56.6895,0.0000 60.0000,3.3090 60.0000,7.3770 L60.0000,52.6230 C60.0000,56.6910 56.6895,60.0000 52.6215,60.0000 Z" style="stroke-width: 1.5000; stroke: #8d98b5; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M52.6215,60.0000 L7.3770,60.0000 C3.3090,60.0000 0.0000,56.6910 0.0000,52.6230 L0.0000,7.3770 C0.0000,3.3090 3.3090,0.0000 7.3770,0.0000 L52.6215,0.0000 C56.6895,0.0000 60.0000,3.3090 60.0000,7.3770 L60.0000,52.6230 C60.0000,56.6910 56.6895,60.0000 52.6215,60.0000 Z" style="fill-rule: evenodd; fill: #77cd66; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad4162">
+        <stop offset="0%" stop-color="#cbfc9f" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#dafea7" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad4162" id="grad4163" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M7.3770,58.0327 C4.3935,58.0327 1.9672,55.6072 1.9672,52.6230 L1.9672,7.3777 C1.9672,4.3943 4.3935,1.9680 7.3770,1.9680 L52.6223,1.9680 C55.6050,1.9680 58.0320,4.3950 58.0320,7.3777 L58.0320,52.6230 C58.0320,55.6072 55.6050,58.0327 52.6223,58.0327 L7.3770,58.0327 Z" style="fill-rule: evenodd; fill: url(#grad4163); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad4164">
+        <stop offset="0%" stop-color="#c4eb97" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#c6eb9a" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad4164" id="grad4165" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M7.3770,56.0655 C5.4788,56.0655 3.9345,54.5212 3.9345,52.6230 L3.9345,7.3777 C3.9345,5.4787 5.4788,3.9352 7.3770,3.9352 L52.6223,3.9352 C54.5205,3.9352 56.0647,5.4795 56.0647,7.3777 L56.0647,52.6230 C56.0647,54.5212 54.5205,56.0655 52.6223,56.0655 L7.3770,56.0655 Z" style="fill-rule: evenodd; fill: url(#grad4165); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad4166">
+        <stop offset="0%" stop-color="#27b30d" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#aeeb89" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad4166" id="grad4167" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M7.8293,54.0982 C6.7650,54.0982 5.9017,53.2357 5.9017,52.1707 L5.9017,7.8300 C5.9017,6.7650 6.7650,5.9025 7.8293,5.9025 L52.1693,5.9025 C53.2343,5.9025 54.0968,6.7650 54.0968,7.8300 L7.8293,54.0982 Z" style="fill-rule: evenodd; fill: url(#grad4167); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad4168">
+        <stop offset="0%" stop-color="#aeeb89" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#27b30d" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad4168" id="grad4169" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M54.0975,52.1707 C54.0975,53.2357 53.2350,54.0982 52.1700,54.0982 L7.8300,54.0982 C6.7658,54.0982 5.9025,53.2357 5.9025,52.1707 L52.1700,5.9025 C53.2350,5.9025 54.0975,6.7650 54.0975,7.8300 L54.0975,52.1707 Z" style="fill-rule: evenodd; fill: url(#grad4169); "/>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

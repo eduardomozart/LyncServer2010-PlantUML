@@ -1,0 +1,721 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="0.7676000000" height="0.8350000000" viewBox="0 0 55.2668 60.1170">
+  <title><![CDATA[Exchange UM IP Gateway]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M52.4107,24.9840 C52.4265,24.8722 52.4475,24.5625 52.4475,24.5625 L51.7867,24.2362 L52.4363,23.8687 L52.4400,22.1520 L51.7380,21.8205 L52.4175,21.4522 L52.4318,19.7437 L52.4250,19.7407 L51.8055,19.4468 L52.4333,19.0777 L52.4385,18.4402 C52.4385,18.4402 52.3988,17.8275 52.3973,17.8050 C52.5390,17.5185 52.5758,17.1652 52.5030,16.8577 C52.4977,16.6118 52.3328,16.3672 52.0095,16.1797 L24.6435,0.3802 C23.9858,0.0007 22.9200,0.0007 22.2645,0.3802 L5.0092,10.2668 L0.9398,12.5820 C0.8333,12.6443 0.7470,12.7305 0.6780,12.8317 C0.5843,12.9465 0.5325,13.0702 0.5198,13.1955 C0.4193,13.6200 0.5198,14.1323 0.8033,14.4420 C0.8107,14.7450 0.8273,15.0885 0.8145,15.4920 L0.8198,20.3400 C0.8115,20.5005 0.8062,20.6527 0.8055,20.7975 L0.6630,20.8740 C0.4470,20.9992 0.3285,21.2385 0.3000,21.5235 C0.1530,22.0260 0.8430,23.6835 2.1480,24.4500 L27.4725,39.1320 C28.9882,39.9157 29.8627,40.2135 31.9118,39.1320 L51.1178,28.0920 C51.7470,27.7290 52.9012,26.7405 52.9110,25.5307 C52.9103,25.5300 52.6148,25.1370 52.4107,24.9840 Z" style="stroke-width: 1.5000; stroke: #8d98b5; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; fill: none; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M41.7510,34.2150 L42.8865,33.3555 C42.8933,33.3555 42.9000,33.3562 42.9068,33.3562 C43.0973,33.3562 43.2923,33.2992 43.4587,33.1793 L44.3512,32.5417 C44.7810,32.2342 44.8815,31.6380 44.5717,31.2082 C44.2658,30.7792 43.6710,30.6795 43.2397,30.9862 L42.3488,31.6237 C42.1725,31.7490 42.0532,31.9230 41.9925,32.1135 L41.6895,32.3430 C41.6550,32.1773 41.6093,32.0617 41.5485,32.0273 C41.5282,31.9920 41.5050,31.9590 41.4803,31.9252 C41.4765,31.9208 41.4735,31.9162 41.4697,31.9117 C41.4465,31.8817 41.4195,31.8532 41.3918,31.8240 C41.3903,31.8217 41.3887,31.8195 41.3843,31.8165 C41.2215,31.6350 41.0558,31.5090 41.0558,31.5090 L38.1893,29.9475 C36.9472,29.5650 35.8943,29.9160 35.8943,29.9160 C26.5290,33.9615 20.4450,40.7783 19.9680,41.4480 C19.9200,41.5147 19.8788,41.5740 19.8420,41.6280 C19.7160,41.8118 19.6448,41.9280 19.6110,41.9873 L19.6110,41.9880 C19.6080,42.0000 19.6028,42.0128 19.6013,42.0247 C19.5983,42.0397 19.5945,42.0547 19.5930,42.0690 C19.5893,42.0832 19.5870,42.0982 19.5848,42.1118 C19.4798,42.4087 19.4160,43.2547 19.4400,43.9755 L18.0488,44.9820 L18.0323,44.9947 L18.0443,45.0330 C17.9955,45.1118 17.9528,45.2062 17.9348,45.3150 C17.9123,45.4275 17.9123,45.5558 17.9513,45.6975 C17.9588,45.7155 18.7425,48.2415 18.7425,48.2415 C18.8078,48.4440 18.9548,48.5827 19.1648,48.6270 L19.1723,48.6488 L19.3950,48.7770 L19.3950,49.1587 L38.3175,60.1170 C38.3175,60.1170 53.5095,51.3667 53.6768,51.2355 C54.0097,50.9700 54.2348,50.6280 54.2940,50.2492 C54.3045,50.1840 54.3097,50.1180 54.3097,50.0505 C54.3097,50.0198 54.3060,49.1527 54.3030,48.2197 C54.2602,48.2512 54.2145,48.2835 54.1702,48.3165 C54.7553,47.8942 55.0995,47.6422 55.1093,47.6325 C55.1805,47.5612 55.2255,47.4833 55.2503,47.3992 C55.2593,47.3677 55.2638,43.1677 55.2660,42.5970 C55.2660,42.5962 55.2660,42.5948 55.2660,42.5948 C55.2660,42.5753 55.2638,42.5550 55.2607,42.5363 C55.2420,42.4133 55.1670,42.3000 55.0478,42.2010 C54.9547,42.1222 41.8223,34.6957 41.8223,34.6957 L41.8050,34.7085" style="stroke-width: 1.5000; stroke: #8d98b5; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; fill: none; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1919" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#b4b9b9" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#2f3536" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M52.9103,25.5300 C52.9005,26.7397 51.7462,27.7282 51.1170,28.0912 L31.9110,39.1312 C29.8620,40.2127 28.9875,39.9150 27.4718,39.1312 L2.1473,24.4492 C0.6900,23.5935 0.0000,21.6262 0.3825,21.3967 L21.4522,8.9175 C22.0815,8.5545 23.1008,8.5567 23.7308,8.9213 L52.9103,25.5300 Z" style="fill-rule: evenodd; fill: url(#grad1919); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1920" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#dae1e1" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7f8787" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M52.2563,24.8783 C53.2815,25.5038 52.8263,26.3580 52.0860,26.8710 L31.3620,38.5455 C29.7878,39.2947 28.8870,39.2385 27.1260,38.2057 L1.1985,23.2965 C0.2408,22.6770 0.0023,21.2558 0.6630,20.8740 L22.2225,9.3967 C22.8832,9.0150 23.9550,9.0150 24.6158,9.3967 L52.2563,24.8783 Z" style="fill-rule: evenodd; fill: url(#grad1920); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1921">
+        <stop offset="0%" stop-color="#30343b" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#565e64" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1921" id="grad1922" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(45 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M32.6992,29.1128 L31.4168,29.8447 C30.3128,30.4035 28.4130,30.2272 27.2040,29.5072 L1.0605,14.4277 C1.0148,14.4008 0.9015,14.3250 0.7980,14.2507 C0.8025,14.5965 0.8295,15.0015 0.8138,15.4912 L0.8190,20.3393 C0.7575,21.5040 0.8618,22.2525 1.7325,22.8622 L27.4117,37.4790 C29.0460,38.3925 29.9318,38.4202 31.1220,37.8382 L33.2393,36.6420 L50.8770,26.6745 C51.9487,26.1008 52.3913,25.8068 52.4422,24.6172 C52.4453,24.5992 52.4468,24.5617 52.4468,24.5617 L51.7860,24.2355 L52.4355,23.8680 L52.4393,22.1513 L51.7373,21.8198 L52.4168,21.4515 L52.4310,19.7430 L51.8048,19.4460 L52.4325,19.0770 L52.4242,18.2332 C52.4273,18.0945 52.4258,17.9722 52.4242,17.8567 C52.3650,17.9010 52.2967,17.9437 52.2188,17.9820 L32.6992,29.1128 Z" style="fill-rule: evenodd; fill: url(#grad1922); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1923">
+        <stop offset="0%" stop-color="#565e64" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#768187" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1923" id="grad1924" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M32.6993,29.1128 L31.4168,29.8447 C30.3127,30.4035 28.4130,30.2272 27.2040,29.5072 L1.0605,14.4277 C1.0148,14.4008 0.9015,14.3250 0.7980,14.2507 C0.8025,14.5965 0.8295,15.0015 0.8137,15.4912 L0.8190,20.3393 C0.7575,21.5040 0.8618,22.2525 1.7325,22.8622 L27.4118,37.4790 C29.0460,38.3925 29.9318,38.4202 31.1220,37.8382 L32.7285,36.9555 L32.6993,29.1128 Z" style="fill-rule: evenodd; fill: url(#grad1924); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M52.3260,17.4210 C52.4175,17.6827 52.4378,18.4402 52.4378,18.4402 L31.2383,30.6120 C30.1560,31.1602 28.2405,30.8917 27.0547,30.1852 L0.8168,14.9887 L0.8018,14.2560 Z" style="fill-rule: evenodd; fill: #000000; fill-opacity: 0.2902; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1925" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#dae1e1" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#899191" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M52.0823,16.2540 C52.7400,16.6343 52.6665,17.8537 52.0087,18.2340 L31.3508,30.0420 C30.2483,30.6007 28.3470,30.4245 27.1388,29.7045 L1.0095,14.6107 C0.3525,14.2313 0.2820,12.9607 0.9390,12.5813 L22.3155,0.4170 C22.9732,0.0375 24.0390,0.0375 24.6953,0.4170 L52.0823,16.2540 Z" style="fill-rule: evenodd; fill: url(#grad1925); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1926" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#949c9c" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M52.0095,16.1790 C52.6673,16.5585 52.6673,17.1735 52.0095,17.5530 L31.3515,29.3617 C30.2490,29.9205 28.3478,29.7442 27.1395,29.0242 L1.0103,13.9305 C0.3533,13.5510 0.3533,12.9360 1.0103,12.5565 L22.2645,0.3795 C22.9200,0.0000 23.9858,0.0000 24.6435,0.3795 L52.0095,16.1790 Z" style="fill-rule: evenodd; fill: url(#grad1926); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1927">
+        <stop offset="0%" stop-color="#7f8787" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#dae1e1" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1927" id="grad1928" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M50.0663,15.7492 C50.6812,16.1070 50.6828,16.6837 50.0677,17.0385 L31.3980,27.8580 C29.8650,28.6245 29.0797,28.6530 27.3862,27.7627 L2.6790,13.5637 C2.0640,13.2067 1.8998,13.0110 2.5140,12.6555 L22.5315,1.2180 C23.1450,0.8632 24.1425,0.8648 24.7590,1.2210 L50.0663,15.7492 Z" style="fill-rule: evenodd; fill: url(#grad1928); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1929">
+        <stop offset="0%" stop-color="#74848c" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#2b3031" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1929" id="grad1930" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M26.7555,34.7932 C26.9273,35.2305 26.8148,35.6820 26.5088,35.8012 C26.2013,35.9190 25.8158,35.6632 25.6470,35.2252 C25.4760,34.7895 25.5870,34.3395 25.8938,34.2195 C26.2005,34.0995 26.5860,34.3575 26.7555,34.7932 Z" style="fill-rule: evenodd; fill: url(#grad1930); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M26.5335,34.8630 C26.6430,35.1457 26.5710,35.4382 26.3723,35.5162 C26.1735,35.5927 25.9260,35.4270 25.8150,35.1427 C25.7040,34.8607 25.7768,34.5697 25.9733,34.4925 C26.1735,34.4145 26.4233,34.5810 26.5335,34.8630 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1931">
+        <stop offset="0%" stop-color="#263645" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#231f20" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1931" id="grad1932" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M26.8575,32.6445 C27.0833,33.0262 27.0488,33.4635 26.7795,33.6225 C26.5133,33.7792 26.1135,33.6000 25.8893,33.2167 C25.6628,32.8365 25.6980,32.3992 25.9665,32.2410 C26.2350,32.0820 26.6340,32.2642 26.8575,32.6445 Z" style="fill-rule: evenodd; fill: url(#grad1932); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M26.7047,32.3177 A0.5633,0.8010 149.5040 1,1 25.8129,31.9133 A0.5633,0.8010 149.5040 0,1 26.7047,32.3177 Z" style="fill-rule: evenodd; fill: #231f20; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1933" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#fc7e38" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#890414" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M26.5988,32.3640 C26.7840,32.6760 26.7548,33.0360 26.5358,33.1650 C26.3160,33.2940 25.9890,33.1462 25.8053,32.8327 C25.6185,32.5207 25.6463,32.1630 25.8668,32.0332 C26.0880,31.9020 26.4143,32.0520 26.5988,32.3640 Z" style="fill-rule: evenodd; fill: url(#grad1933); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1934">
+        <stop offset="0%" stop-color="#c7d0d5" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#2b3031" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1934" id="grad1935" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M10.8585,22.2375 C11.0355,22.5360 11.0070,22.8788 10.7978,23.0033 C10.5878,23.1270 10.2758,22.9853 10.0980,22.6853 C9.9218,22.3875 9.9488,22.0448 10.1580,21.9210 C10.3703,21.7965 10.6823,21.9383 10.8585,22.2375 Z" style="fill-rule: evenodd; fill: url(#grad1935); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M10.7060,22.3071 A0.2865,0.4065 149.4627 1,1 10.2527,22.1025 A0.2865,0.4065 149.4627 0,1 10.7060,22.3071 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1936" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#00ff00" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#009245" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M10.6838,22.3140 C10.7858,22.4880 10.7700,22.6875 10.6485,22.7587 C10.5262,22.8307 10.3455,22.7482 10.2427,22.5742 C10.1400,22.4010 10.1550,22.2022 10.2780,22.1310 C10.4003,22.0582 10.5817,22.1415 10.6838,22.3140 Z" style="fill-rule: evenodd; fill: url(#grad1936); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1937">
+        <stop offset="0%" stop-color="#c7d0d5" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#2b3031" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1937" id="grad1938" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M14.8013,24.4747 C14.9783,24.7732 14.9498,25.1167 14.7405,25.2412 C14.5313,25.3642 14.2193,25.2225 14.0415,24.9232 C13.8653,24.6255 13.8923,24.2827 14.1023,24.1582 C14.3123,24.0337 14.6250,24.1762 14.8013,24.4747 Z" style="fill-rule: evenodd; fill: url(#grad1938); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M14.6659,24.5515 A0.2858,0.4073 149.4578 1,1 14.2128,24.3460 A0.2858,0.4073 149.4578 0,1 14.6659,24.5515 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1939" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#00ff00" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#009245" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M14.6273,24.5520 C14.7293,24.7252 14.7135,24.9247 14.5920,24.9968 C14.4690,25.0688 14.2883,24.9862 14.1855,24.8123 C14.0835,24.6390 14.0985,24.4403 14.2208,24.3683 C14.3438,24.2962 14.5245,24.3787 14.6273,24.5520 Z" style="fill-rule: evenodd; fill: url(#grad1939); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1940">
+        <stop offset="0%" stop-color="#c7d0d5" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#2b3031" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1940" id="grad1941" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M18.7785,26.6610 C18.9555,26.9595 18.9270,27.3030 18.7178,27.4275 C18.5070,27.5512 18.1958,27.4095 18.0173,27.1095 C17.8410,26.8110 17.8680,26.4690 18.0788,26.3452 C18.2903,26.2200 18.6015,26.3617 18.7785,26.6610 Z" style="fill-rule: evenodd; fill: url(#grad1941); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M18.6070,26.7358 A0.2865,0.4072 149.5010 1,1 18.1535,26.5303 A0.2865,0.4072 149.5010 0,1 18.6070,26.7358 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1942" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#00ff00" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#009245" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M18.6030,26.7375 C18.7057,26.9115 18.6900,27.1110 18.5685,27.1830 C18.4462,27.2542 18.2648,27.1732 18.1627,26.9985 C18.0600,26.8260 18.0750,26.6265 18.1980,26.5552 C18.3202,26.4817 18.5010,26.5642 18.6030,26.7375 Z" style="fill-rule: evenodd; fill: url(#grad1942); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1943">
+        <stop offset="0%" stop-color="#c7d0d5" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#2b3031" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1943" id="grad1944" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M23.1165,28.9852 C23.2935,29.2837 23.2658,29.6272 23.0558,29.7510 C22.8465,29.8747 22.5338,29.7330 22.3560,29.4337 C22.1798,29.1360 22.2075,28.7932 22.4183,28.6687 C22.6283,28.5435 22.9403,28.6867 23.1165,28.9852 Z" style="fill-rule: evenodd; fill: url(#grad1944); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M22.9648,29.0610 A0.2850,0.4073 149.3831 1,1 22.5121,28.8557 A0.2850,0.4073 149.3831 0,1 22.9648,29.0610 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1945" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#00ff00" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#009245" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M22.9418,29.0625 C23.0453,29.2357 23.0288,29.4352 22.9065,29.5080 C22.7843,29.5792 22.6035,29.4975 22.5008,29.3227 C22.3980,29.1487 22.4138,28.9507 22.5360,28.8787 C22.6575,28.8060 22.8398,28.8892 22.9418,29.0625 Z" style="fill-rule: evenodd; fill: url(#grad1945); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M7.8023,21.9802 C7.6283,21.8782 7.5675,21.8977 7.3860,21.9975 C7.3418,22.0207 7.3073,22.0387 7.2765,22.0575 C7.2300,22.0732 7.1918,22.1032 7.1625,22.1452 C7.1565,22.1527 7.1520,22.1610 7.1468,22.1700 C7.1145,22.2270 7.0943,22.2990 7.0943,22.3898 C7.0943,22.6965 7.3043,23.0670 7.5615,23.2155 C7.6410,23.2612 7.7153,23.2777 7.7805,23.2732 C7.8563,23.2740 7.9268,23.2462 8.0115,23.1937 C8.2148,23.0655 8.2695,23.0370 8.2695,22.8053 C8.2688,22.4985 8.0618,22.1280 7.8023,21.9802 Z" style="fill-rule: evenodd; fill: #000000; fill-opacity: 0.4000; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M6.6765,21.1747 L4.4715,19.9005 C4.2833,19.7925 4.0590,19.9327 4.0590,19.9327 L3.8228,20.0632 C3.7575,19.8135 3.5880,19.5637 3.3870,19.4482 C3.2130,19.3470 3.1522,19.3657 2.9707,19.4662 C2.9273,19.4887 2.8920,19.5075 2.8605,19.5255 C2.8148,19.5420 2.7773,19.5720 2.7465,19.6140 C2.7420,19.6215 2.7368,19.6297 2.7315,19.6387 C2.7000,19.6957 2.6798,19.7685 2.6798,19.8585 C2.6798,20.1652 2.8883,20.5350 3.1455,20.6842 C3.2257,20.7307 3.2992,20.7465 3.3668,20.7427 C3.3705,20.7427 3.3765,20.7435 3.3825,20.7427 L3.4530,21.2790 C3.4530,21.2820 3.4530,21.2842 3.4538,21.2857 L3.4538,21.2865 C3.5182,21.7222 3.7372,21.9075 3.8610,21.9795 L5.7360,23.0610 C5.7405,23.0640 5.7443,23.0662 5.7495,23.0685 C5.8042,23.0962 5.8500,23.1030 5.8912,23.1007 C6.1027,23.1255 6.2655,22.9860 6.2655,22.9860 C6.2655,22.9860 6.5865,22.7910 6.5910,22.7880 C6.9195,22.5825 6.8835,22.5247 6.9105,22.4182 L7.0163,21.7942 C7.0178,21.7845 7.0178,21.7732 7.0178,21.7620 C7.0155,21.5460 6.8648,21.2827 6.6765,21.1747 Z" style="fill-rule: evenodd; fill: #000000; fill-opacity: 0.4000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1946">
+        <stop offset="0%" stop-color="#646c6b" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#dae1e1" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1946" id="grad1947" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M3.1920,19.0305 C3.0158,18.9300 2.9565,18.9480 2.7750,19.0492 C2.5425,19.1647 2.4975,19.2007 2.4975,19.4325 C2.4975,19.7392 2.7068,20.1090 2.9640,20.2583 C3.1380,20.3595 3.2468,20.3392 3.3998,20.2447 C3.6030,20.1165 3.6585,20.0887 3.6585,19.8563 C3.6585,19.5495 3.4493,19.1790 3.1920,19.0305 Z" style="fill-rule: evenodd; fill: url(#grad1947); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1948">
+        <stop offset="0%" stop-color="#646c6b" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#dae1e1" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1948" id="grad1949" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M2.9498,20.2665 C2.6918,20.1180 2.4840,19.7475 2.4833,19.4407 C2.4833,19.1332 2.6918,19.0050 2.9498,19.1535 C3.2070,19.3020 3.4148,19.6717 3.4148,19.9792 C3.4163,20.2860 3.2070,20.4142 2.9498,20.2665 Z" style="fill-rule: evenodd; fill: url(#grad1949); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1950" cx="100.0000%" cy="0.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#f9f9fa" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7c7e95" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M3.2460,19.8802 C3.2468,20.0797 3.1133,20.1645 2.9498,20.0700 C2.7855,19.9755 2.6528,19.7370 2.6528,19.5382 C2.6528,19.3380 2.7855,19.2547 2.9498,19.3485 C3.1133,19.4430 3.2468,19.6815 3.2460,19.8802 Z" style="fill-rule: evenodd; fill: url(#grad1950); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1951">
+        <stop offset="0%" stop-color="#303638" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#837564" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1951" id="grad1952" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(315 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M2.9895,19.9380 L2.9055,19.8885 L2.9055,19.4850 L2.9895,19.5337 L2.9895,19.9380 Z" style="fill-rule: evenodd; fill: url(#grad1952); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1953">
+        <stop offset="0%" stop-color="#303638" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#837564" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1953" id="grad1954" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(-0 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M3.1305,19.8622 L2.7690,19.6545 L2.7690,19.5562 L3.1305,19.7655 L3.1305,19.8622 Z" style="fill-rule: evenodd; fill: url(#grad1954); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1955">
+        <stop offset="0%" stop-color="#646c6b" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#dae1e1" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1955" id="grad1956" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M7.6073,21.5625 C7.4325,21.4612 7.3710,21.4800 7.1903,21.5805 C6.9578,21.6967 6.9128,21.7327 6.9128,21.9645 C6.9128,22.2712 7.1205,22.6417 7.3785,22.7902 C7.5540,22.8915 7.6613,22.8720 7.8143,22.7767 C8.0183,22.6485 8.0723,22.6207 8.0723,22.3883 C8.0730,22.0822 7.8645,21.7110 7.6073,21.5625 Z" style="fill-rule: evenodd; fill: url(#grad1956); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1957">
+        <stop offset="0%" stop-color="#646c6b" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#dae1e1" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1957" id="grad1958" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M7.3642,22.7977 C7.1078,22.6500 6.9000,22.2795 6.8993,21.9720 C6.8993,21.6652 7.1078,21.5362 7.3642,21.6847 C7.6222,21.8332 7.8300,22.2030 7.8300,22.5105 C7.8300,22.8180 7.6222,22.9462 7.3642,22.7977 Z" style="fill-rule: evenodd; fill: url(#grad1958); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1959" cx="100.0000%" cy="0.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#f9f9fa" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7c7e95" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M7.6620,22.4122 C7.6620,22.6125 7.5300,22.6965 7.3650,22.6020 C7.2015,22.5075 7.0688,22.2697 7.0688,22.0702 C7.0688,21.8700 7.2015,21.7860 7.3650,21.8805 C7.5300,21.9750 7.6620,22.2135 7.6620,22.4122 Z" style="fill-rule: evenodd; fill: url(#grad1959); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1960">
+        <stop offset="0%" stop-color="#303638" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#837564" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1960" id="grad1961" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(315 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M7.4055,22.4692 L7.3193,22.4205 L7.3193,22.0170 L7.4055,22.0657 L7.4055,22.4692 Z" style="fill-rule: evenodd; fill: url(#grad1961); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1962">
+        <stop offset="0%" stop-color="#303638" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#837564" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1962" id="grad1963" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(-0 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M7.5450,22.3942 L7.1850,22.1857 L7.1850,22.0882 L7.5450,22.2967 L7.5450,22.3942 Z" style="fill-rule: evenodd; fill: url(#grad1963); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M5.5014,21.1823 A0.8760,0.5227 232.1491 1,1 5.3766,20.1698 A0.8760,0.5227 232.1491 0,1 5.5014,21.1823 Z" style="fill-rule: evenodd; fill: #d8d8df; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1964" cx="100.0000%" cy="0.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#f9f9fa" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7c7e95" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M3.6645,21.5602 C3.5400,21.4890 3.3225,21.3030 3.2580,20.8672 L3.1568,20.1105 C3.1560,20.0992 3.1553,20.0880 3.1553,20.0775 C3.1553,19.8615 3.3075,19.7737 3.4943,19.8825 L5.7000,21.1560 C5.8875,21.2640 6.0398,21.5272 6.0398,21.7425 C6.0398,21.7537 6.0383,21.7650 6.0368,21.7747 L5.9295,22.3995 C5.9033,22.5045 5.8290,22.7850 5.5500,22.6500 C5.5455,22.6477 5.5418,22.6447 5.5373,22.6425 L3.6645,21.5602 Z" style="fill-rule: evenodd; fill: url(#grad1964); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1965">
+        <stop offset="0%" stop-color="#35362f" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#000000" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1965" id="grad1966" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M5.7653,22.2690 C5.7180,22.4437 5.6543,22.5030 5.5380,22.4475 L3.6638,21.3645 C3.5708,21.3112 3.4650,21.2077 3.4230,20.9280 L3.3240,20.1757 C3.3240,20.0677 3.3997,20.0235 3.4942,20.0775 L5.7000,21.3517 C5.7945,21.4057 5.8695,21.5370 5.8695,21.6457 L5.7653,22.2690 Z" style="fill-rule: evenodd; fill: url(#grad1966); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1967" cx="100.0000%" cy="100.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#f3f9f7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7f8787" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M3.7028,20.7982 C3.6645,20.8380 3.6713,20.9062 3.7185,20.9535 C3.7658,20.9992 3.8340,21.0060 3.8738,20.9677 C3.9113,20.9287 3.9038,20.8597 3.8573,20.8132 C3.8115,20.7667 3.7425,20.7600 3.7028,20.7982 Z M3.8348,20.8417 C3.8678,20.8732 3.8723,20.9190 3.8468,20.9452 C3.8213,20.9715 3.7733,20.9662 3.7425,20.9355 C3.7118,20.9040 3.7058,20.8582 3.7305,20.8320 C3.7575,20.8057 3.8040,20.8102 3.8348,20.8417 Z" style="fill-rule: evenodd; fill: url(#grad1967); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M3.8360,20.9450 A0.0803,0.0653 224.7245 1,1 3.8249,20.8422 A0.0803,0.0653 224.7245 0,1 3.8360,20.9450 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1968" cx="100.0000%" cy="100.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#f3f9f7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7f8787" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M4.2353,21.0945 C4.1963,21.1335 4.2038,21.2025 4.2510,21.2497 C4.2983,21.2955 4.3673,21.3022 4.4055,21.2640 C4.4445,21.2257 4.4355,21.1567 4.3890,21.1087 C4.3433,21.0622 4.2743,21.0562 4.2353,21.0945 Z M4.3680,21.1380 C4.3988,21.1695 4.4033,21.2160 4.3785,21.2415 C4.3530,21.2670 4.3058,21.2632 4.2743,21.2317 C4.2435,21.2002 4.2383,21.1545 4.2645,21.1282 C4.2885,21.1012 4.3358,21.1065 4.3680,21.1380 Z" style="fill-rule: evenodd; fill: url(#grad1968); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M4.3605,21.2456 A0.0810,0.0660 224.6354 1,1 4.3492,21.1417 A0.0810,0.0660 224.6354 0,1 4.3605,21.2456 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1969" cx="100.0000%" cy="100.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#f3f9f7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7f8787" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M4.7670,21.3907 C4.7280,21.4290 4.7355,21.4987 4.7828,21.5452 C4.8300,21.5925 4.8990,21.5985 4.9373,21.5595 C4.9763,21.5205 4.9673,21.4515 4.9215,21.4050 C4.8750,21.3585 4.8053,21.3525 4.7670,21.3907 Z M4.8998,21.4342 C4.9313,21.4657 4.9365,21.5122 4.9103,21.5377 C4.8848,21.5640 4.8375,21.5595 4.8060,21.5280 C4.7753,21.4965 4.7700,21.4507 4.7955,21.4237 C4.8210,21.3982 4.8675,21.4027 4.8998,21.4342 Z" style="fill-rule: evenodd; fill: url(#grad1969); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M4.9201,21.5329 A0.0802,0.0660 224.8136 1,1 4.9097,21.4295 A0.0802,0.0660 224.8136 0,1 4.9201,21.5329 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1970" cx="100.0000%" cy="100.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#f3f9f7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7f8787" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M5.2980,21.6870 C5.2613,21.7260 5.2680,21.7950 5.3145,21.8422 C5.3618,21.8880 5.4300,21.8955 5.4690,21.8565 C5.5080,21.8175 5.5005,21.7485 5.4533,21.7020 C5.4075,21.6547 5.3370,21.6480 5.2980,21.6870 Z M5.4308,21.7305 C5.4630,21.7612 5.4683,21.8085 5.4420,21.8340 C5.4157,21.8595 5.3700,21.8557 5.3385,21.8242 C5.3070,21.7927 5.3010,21.7462 5.3273,21.7207 C5.3528,21.6945 5.3993,21.6990 5.4308,21.7305 Z" style="fill-rule: evenodd; fill: url(#grad1970); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M5.4317,21.8337 A0.0803,0.0668 224.7245 1,1 5.4216,21.7298 A0.0803,0.0668 224.7245 0,1 5.4317,21.8337 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1971" cx="100.0000%" cy="100.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#f3f9f7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7f8787" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M3.5415,20.3760 C3.5025,20.4150 3.5100,20.4840 3.5573,20.5305 C3.6030,20.5770 3.6720,20.5838 3.7118,20.5448 C3.7493,20.5057 3.7425,20.4368 3.6953,20.3902 C3.6480,20.3430 3.5783,20.3370 3.5415,20.3760 Z M3.6713,20.4180 C3.7043,20.4503 3.7095,20.4960 3.6840,20.5222 C3.6585,20.5485 3.6120,20.5440 3.5790,20.5125 C3.5483,20.4810 3.5430,20.4345 3.5693,20.4083 C3.5948,20.3843 3.6413,20.3880 3.6713,20.4180 Z" style="fill-rule: evenodd; fill: url(#grad1971); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M3.6796,20.5169 A0.0802,0.0660 225.0000 1,1 3.6695,20.4135 A0.0802,0.0660 225.0000 0,1 3.6796,20.5169 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1972" cx="100.0000%" cy="100.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#f3f9f7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7f8787" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M4.0733,20.6722 C4.0335,20.7112 4.0418,20.7802 4.0890,20.8267 C4.1363,20.8740 4.2045,20.8800 4.2443,20.8410 C4.2818,20.8027 4.2743,20.7330 4.2270,20.6865 C4.1798,20.6400 4.1108,20.6332 4.0733,20.6722 Z M4.2045,20.7150 C4.2360,20.7465 4.2413,20.7930 4.2158,20.8185 C4.1903,20.8440 4.1438,20.8402 4.1108,20.8087 C4.0800,20.7780 4.0755,20.7315 4.1010,20.7052 C4.1265,20.6797 4.1730,20.6842 4.2045,20.7150 Z" style="fill-rule: evenodd; fill: url(#grad1972); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M4.2320,20.8187 A0.0803,0.0653 224.6273 1,1 4.2207,20.7159 A0.0803,0.0653 224.6273 0,1 4.2320,20.8187 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1973" cx="100.0000%" cy="100.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#f3f9f7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7f8787" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M4.6050,20.9677 C4.5653,21.0067 4.5735,21.0757 4.6215,21.1222 C4.6680,21.1687 4.7363,21.1755 4.7753,21.1365 C4.8135,21.0975 4.8053,21.0293 4.7595,20.9812 C4.7115,20.9355 4.6425,20.9295 4.6050,20.9677 Z M4.7363,21.0105 C4.7685,21.0420 4.7730,21.0885 4.7483,21.1147 C4.7220,21.1410 4.6748,21.1365 4.6433,21.1050 C4.6125,21.0735 4.6073,21.0277 4.6328,21.0007 C4.6583,20.9752 4.7048,20.9797 4.7363,21.0105 Z" style="fill-rule: evenodd; fill: url(#grad1973); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M4.7373,21.1144 A0.0803,0.0668 224.7245 1,1 4.7272,21.0105 A0.0803,0.0668 224.7245 0,1 4.7373,21.1144 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1974" cx="100.0000%" cy="100.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#f3f9f7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7f8787" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M5.1368,21.2647 C5.0978,21.3030 5.1060,21.3720 5.1533,21.4185 C5.1998,21.4657 5.2680,21.4717 5.3070,21.4335 C5.3453,21.3945 5.3385,21.3255 5.2913,21.2782 C5.2440,21.2317 5.1735,21.2257 5.1368,21.2647 Z M5.2680,21.3075 C5.2995,21.3390 5.3055,21.3855 5.2800,21.4110 C5.2538,21.4372 5.2073,21.4327 5.1758,21.4012 C5.1443,21.3705 5.1390,21.3232 5.1638,21.2978 C5.1900,21.2722 5.2365,21.2760 5.2680,21.3075 Z" style="fill-rule: evenodd; fill: url(#grad1974); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M5.2680,21.4227 A0.0803,0.0668 224.4490 1,1 5.2575,21.3188 A0.0803,0.0668 224.4490 0,1 5.2680,21.4227 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1975" cx="100.0000%" cy="100.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#f3f9f7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7f8787" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M5.5748,21.4837 C5.5365,21.5227 5.5440,21.5917 5.5913,21.6390 C5.6385,21.6847 5.7068,21.6915 5.7458,21.6532 C5.7840,21.6142 5.7765,21.5452 5.7293,21.4980 C5.6828,21.4515 5.6138,21.4447 5.5748,21.4837 Z M5.7075,21.5265 C5.7398,21.5580 5.7450,21.6045 5.7180,21.6307 C5.6925,21.6570 5.6460,21.6525 5.6145,21.6202 C5.5838,21.5895 5.5778,21.5430 5.6033,21.5167 C5.6288,21.4905 5.6753,21.4950 5.7075,21.5265 Z" style="fill-rule: evenodd; fill: url(#grad1975); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M5.7085,21.6305 A0.0803,0.0660 224.7245 1,1 5.6979,21.5271 A0.0803,0.0660 224.7245 0,1 5.7085,21.6305 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1976" cx="100.0000%" cy="100.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#f3f9f7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7f8787" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M3.8497,21.2212 C3.8115,21.2602 3.8190,21.3292 3.8655,21.3757 C3.9128,21.4222 3.9817,21.4282 4.0208,21.3900 C4.0583,21.3517 4.0508,21.2827 4.0043,21.2355 C3.9563,21.1890 3.8888,21.1830 3.8497,21.2212 Z M3.9818,21.2647 C4.0140,21.2962 4.0193,21.3427 3.9923,21.3682 C3.9675,21.3945 3.9195,21.3900 3.8888,21.3592 C3.8573,21.3277 3.8528,21.2812 3.8775,21.2550 C3.9030,21.2287 3.9503,21.2332 3.9818,21.2647 Z" style="fill-rule: evenodd; fill: url(#grad1976); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M4.0100,21.3676 A0.0803,0.0660 224.6273 1,1 3.9992,21.2643 A0.0803,0.0660 224.6273 0,1 4.0100,21.3676 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1977" cx="100.0000%" cy="100.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#f3f9f7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7f8787" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M4.3815,21.5182 C4.3433,21.5572 4.3515,21.6262 4.3988,21.6727 C4.4453,21.7192 4.5135,21.7260 4.5518,21.6870 C4.5908,21.6487 4.5833,21.5797 4.5353,21.5325 C4.4880,21.4852 4.4198,21.4792 4.3815,21.5182 Z M4.5135,21.5610 C4.5450,21.5925 4.5503,21.6390 4.5248,21.6645 C4.4993,21.6900 4.4513,21.6862 4.4213,21.6547 C4.3890,21.6232 4.3845,21.5767 4.4085,21.5505 C4.4348,21.5250 4.4813,21.5295 4.5135,21.5610 Z" style="fill-rule: evenodd; fill: url(#grad1977); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M4.5046,21.6624 A0.0810,0.0660 224.9109 1,1 4.4938,21.5584 A0.0810,0.0660 224.9109 0,1 4.5046,21.6624 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1978" cx="100.0000%" cy="100.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#f3f9f7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7f8787" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M4.9125,21.8137 C4.8758,21.8520 4.8833,21.9217 4.9298,21.9682 C4.9770,22.0148 5.0453,22.0215 5.0835,21.9825 C5.1225,21.9435 5.1150,21.8737 5.0678,21.8280 C5.0198,21.7815 4.9515,21.7748 4.9125,21.8137 Z M5.0445,21.8573 C5.0768,21.8880 5.0820,21.9345 5.0573,21.9608 C5.0303,21.9862 4.9845,21.9825 4.9530,21.9510 C4.9200,21.9195 4.9155,21.8730 4.9403,21.8475 C4.9680,21.8213 5.0130,21.8265 5.0445,21.8573 Z" style="fill-rule: evenodd; fill: url(#grad1978); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M5.0455,21.9603 A0.0803,0.0660 224.7245 1,1 5.0349,21.8569 A0.0803,0.0660 224.7245 0,1 5.0455,21.9603 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1979" cx="100.0000%" cy="100.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#f3f9f7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7f8787" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M5.4450,22.1100 C5.4083,22.1490 5.4143,22.2180 5.4615,22.2645 C5.5088,22.3118 5.5770,22.3178 5.6153,22.2788 C5.6543,22.2405 5.6475,22.1715 5.5995,22.1243 C5.5530,22.0778 5.4833,22.0718 5.4450,22.1100 Z M5.5763,22.1528 C5.6100,22.1842 5.6138,22.2307 5.5890,22.2570 C5.5628,22.2833 5.5163,22.2780 5.4848,22.2473 C5.4525,22.2158 5.4473,22.1693 5.4728,22.1430 C5.4998,22.1175 5.5455,22.1220 5.5763,22.1528 Z" style="fill-rule: evenodd; fill: url(#grad1979); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M5.5769,22.2686 A0.0803,0.0653 224.4490 1,1 5.5654,22.1658 A0.0803,0.0653 224.4490 0,1 5.5769,22.2686 Z" style="fill-rule: evenodd; fill: #000000; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1980">
+        <stop offset="0%" stop-color="#35362f" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#000000" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1980" id="grad1981" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M8.9460,25.8585 L8.9460,22.8052 L11.9940,24.5662 L11.9940,27.6180 L8.9460,25.8585 Z" style="fill-rule: evenodd; fill: url(#grad1981); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1982" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M11.6768,27.0690 L9.2625,25.6755 L9.2625,23.3542 L11.6768,24.7492 L11.6768,27.0690 Z" style="fill-rule: evenodd; fill: url(#grad1982); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M11.4195,25.0387 L9.5085,23.9347 L9.5085,25.2232 L9.9975,25.5060 L9.9975,25.7467 L10.1820,25.8525 L10.1820,26.1360 L10.7325,26.4547 L10.7325,26.1712 L10.8803,26.2560 L10.8803,26.0160 L11.4195,26.3265 L11.4195,25.0387 Z" style="fill-rule: evenodd; fill: #2e2927; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1983">
+        <stop offset="0%" stop-color="#35362f" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#000000" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1983" id="grad1984" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M12.8528,28.0665 L12.8528,25.0140 L15.9000,26.7735 L15.9000,29.8275 L12.8528,28.0665 Z" style="fill-rule: evenodd; fill: url(#grad1984); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1985" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M15.5843,29.2777 L13.1685,27.8835 L13.1685,25.5630 L15.5843,26.9572 L15.5843,29.2777 Z" style="fill-rule: evenodd; fill: url(#grad1985); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M15.3255,27.2467 L13.4138,26.1435 L13.4138,27.4312 L13.9043,27.7140 L13.9043,27.9547 L14.0888,28.0605 L14.0888,28.3440 L14.6400,28.6620 L14.6400,28.3792 L14.7863,28.4640 L14.7863,28.2240 L15.3255,28.5352 L15.3255,27.2467 Z" style="fill-rule: evenodd; fill: #2e2927; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1986">
+        <stop offset="0%" stop-color="#35362f" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#000000" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1986" id="grad1987" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M16.8525,30.1852 L16.8525,27.1320 L19.9005,28.8923 L19.9005,31.9447 L16.8525,30.1852 Z" style="fill-rule: evenodd; fill: url(#grad1987); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1988" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M19.5840,31.3965 L17.1698,30.0030 L17.1698,27.6810 L19.5840,29.0752 L19.5840,31.3965 Z" style="fill-rule: evenodd; fill: url(#grad1988); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M19.3267,29.3647 L17.4150,28.2615 L17.4150,29.5492 L17.9055,29.8327 L17.9055,30.0727 L18.0878,30.1792 L18.0878,30.4627 L18.6397,30.7815 L18.6397,30.4972 L18.7875,30.5835 L18.7875,30.3420 L19.3267,30.6540 L19.3267,29.3647 Z" style="fill-rule: evenodd; fill: #2e2927; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1989">
+        <stop offset="0%" stop-color="#35362f" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#000000" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1989" id="grad1990" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M21.1485,32.5492 L21.1485,29.4960 L24.1980,31.2555 L24.1980,34.3087 L21.1485,32.5492 Z" style="fill-rule: evenodd; fill: url(#grad1990); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1991" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M23.8815,33.7597 L21.4658,32.3662 L21.4658,30.0442 L23.8815,31.4385 L23.8815,33.7597 Z" style="fill-rule: evenodd; fill: url(#grad1991); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M23.6250,31.7295 L21.7118,30.6247 L21.7118,31.9132 L22.2015,32.1967 L22.2015,32.4367 L22.3875,32.5425 L22.3875,32.8267 L22.9373,33.1447 L22.9373,32.8620 L23.0843,32.9460 L23.0843,32.7067 L23.6250,33.0172 L23.6250,31.7295 Z" style="fill-rule: evenodd; fill: #2e2927; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1992" cx="0.0000%" cy="100.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#000000" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#3f3f3f" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M33.5798,30.6112 L52.4250,19.7400 L51.7987,19.4430 L33.5798,29.8455 L33.5798,30.6112 Z" style="fill-rule: evenodd; fill: url(#grad1992); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1993" cx="0.0000%" cy="100.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#000000" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#3f3f3f" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M33.5798,33.0210 L52.4250,22.1497 L51.7515,21.8310 L33.5798,32.2567 L33.5798,33.0210 Z" style="fill-rule: evenodd; fill: url(#grad1993); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad1994" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#000000" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#3f3f3f" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M33.5798,35.4307 L52.4250,24.5610 L51.7515,24.2415 L33.5798,34.6657 L33.5798,35.4307 Z" style="fill-rule: evenodd; fill: url(#grad1994); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <linearGradient id="grad1995">
+        <stop offset="0%" stop-color="#080808" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#c4c5c6" stop-opacity="1.0000"/>
+      </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M37.6500,59.0895 C37.6530,59.1008 37.6567,59.1097 37.6582,59.1172 C37.6567,59.1105 37.6530,59.1008 37.6500,59.0895 Z" style="fill-rule: evenodd; fill: url(#grad1995); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1996">
+        <stop offset="0%" stop-color="#080808" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#c4c5c6" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1996" id="grad1997" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(315 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M54.3023,48.2190 C51.0300,50.5890 38.9228,59.3107 38.9093,59.3198 C38.4083,59.6123 38.0175,59.5852 37.8045,59.3692 L19.3943,48.7763 L19.3943,49.1580 L38.3168,60.1162 C38.3168,60.1162 53.5088,51.3660 53.6760,51.2348 C54.0090,50.9693 54.2340,50.6273 54.2933,50.2485 C54.3038,50.1833 54.3090,50.1173 54.3090,50.0498 C54.3090,50.0198 54.3053,49.1520 54.3023,48.2190 Z" style="fill-rule: evenodd; fill: url(#grad1997); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M37.6583,59.1172 C37.6620,59.1292 37.6650,59.1352 37.6650,59.1352 C37.6650,59.1352 37.6620,59.1292 37.6583,59.1172 Z" style="fill-rule: evenodd; fill: #a7e968; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad1998">
+        <stop offset="0%" stop-color="#f3f9f7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#656d6d" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad1998" id="grad1999" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(45 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M37.6650,59.1360 C37.6650,59.1360 36.8805,56.6115 36.8768,56.5920 C36.7725,56.2327 36.9240,55.9597 37.0605,55.7992 L37.0275,55.7805 L23.3115,47.9760 L21.8010,47.1172 L18.0697,44.9932 L18.0495,44.9820 L18.0330,44.9947 L18.0450,45.0330 C17.9962,45.1117 17.9535,45.2062 17.9355,45.3150 C17.9130,45.4275 17.9130,45.5557 17.9520,45.6975 C17.9595,45.7155 18.7432,48.2415 18.7432,48.2415 C18.8085,48.4440 18.9555,48.5827 19.1655,48.6270 L19.1730,48.6487 L37.8060,59.3700 C37.7415,59.3062 37.6950,59.2290 37.6650,59.1360 Z" style="fill-rule: evenodd; fill: url(#grad1999); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2000">
+        <stop offset="0%" stop-color="#dae1e1" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7f8787" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2000" id="grad2001" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(315 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M55.1700,42.8595 C55.0913,42.9683 41.9100,52.3185 37.8713,55.1820 C37.6148,55.3643 37.3965,55.5195 37.2195,55.6448 C37.1925,55.6650 37.1280,55.7190 37.0605,55.8000 C36.9233,55.9605 36.7725,56.2335 36.8768,56.5928 C36.8805,56.6115 37.6650,59.1368 37.6650,59.1368 C37.6950,59.2298 37.7423,59.3078 37.8053,59.3708 C38.0175,59.5868 38.4090,59.6130 38.9100,59.3213 C38.9258,59.3108 55.0478,47.6963 55.1100,47.6333 C55.1813,47.5620 55.2263,47.4840 55.2510,47.4000 C55.2600,47.3685 55.2645,43.1685 55.2668,42.5978 C55.2645,42.6885 55.2315,42.7770 55.1700,42.8595 Z" style="fill-rule: evenodd; fill: url(#grad2001); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M19.5817,44.9685 C19.4985,44.7653 19.4557,44.3910 19.4407,43.9763 L18.0495,44.9828 L18.0697,44.9940 L21.8010,47.1180 L23.3115,47.9768 L23.7345,47.6730 C22.6200,47.2313 20.0752,45.6713 20.0752,45.6713 C19.8443,45.4860 19.6725,45.1935 19.5817,44.9685 Z" style="fill-rule: evenodd; fill: #3f3f3f; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2002">
+        <stop offset="0%" stop-color="#000000" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2002" id="grad2003" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M44.5725,31.2082 C44.2665,30.7792 43.6717,30.6795 43.2405,30.9862 L42.3495,31.6237 C42.1732,31.7490 42.0540,31.9230 41.9932,32.1135 L42.2527,31.9177 C42.5887,31.6642 43.0687,31.7302 43.3237,32.0670 C43.5787,32.4037 43.5112,32.8830 43.1745,33.1380 L42.8865,33.3555 C42.8932,33.3555 42.9000,33.3562 42.9067,33.3562 C43.0972,33.3562 43.2922,33.2992 43.4587,33.1792 L44.3512,32.5417 C44.7817,32.2350 44.8822,31.6387 44.5725,31.2082 Z" style="fill-rule: evenodd; fill: url(#grad2003); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2004">
+        <stop offset="0%" stop-color="#000000" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2004" id="grad2005" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M43.3238,32.0677 C43.0688,31.7310 42.5895,31.6650 42.2528,31.9185 L41.9933,32.1142 L41.6903,32.3437 C41.7773,32.7757 41.7855,33.5580 41.7510,34.2157 L42.8865,33.3562 L43.1745,33.1387 C43.5113,32.8837 43.5780,32.4045 43.3238,32.0677 Z" style="fill-rule: evenodd; fill: url(#grad2005); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad2006" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#dae1e1" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#707070" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M41.6902,32.3430 C41.6557,32.1772 41.6100,32.0617 41.5492,32.0272 C41.5680,32.0580 41.5830,32.0887 41.5965,32.1210 C41.5980,32.1240 41.5980,32.1270 41.5995,32.1307 C41.6100,32.1540 41.6182,32.1780 41.6250,32.2027 C41.6280,32.2185 41.6332,32.2350 41.6370,32.2500 C41.6385,32.2620 41.6422,32.2740 41.6445,32.2860 C41.6490,32.3152 41.6505,32.3445 41.6505,32.3730 C41.6505,32.3730 41.6505,32.3730 41.6505,32.3737 C41.6505,32.3752 41.6520,32.3782 41.6520,32.3797 C41.6520,32.6115 41.5687,32.8927 41.3137,33.0067 C41.2665,33.0285 41.2162,33.0517 41.1645,33.0757 C41.1502,33.0817 41.1367,33.0892 41.1210,33.0952 C41.0812,33.1132 41.0430,33.1320 41.0032,33.1515 C41.0002,33.1530 40.9980,33.1530 40.9965,33.1537 C40.9762,33.1635 40.9567,33.1732 40.9342,33.1837 C40.9125,33.1935 40.8922,33.2040 40.8705,33.2145 C40.8675,33.2160 40.8637,33.2175 40.8607,33.2190 C40.8480,33.2250 40.8375,33.2310 40.8247,33.2362 C40.8127,33.2422 40.8030,33.2482 40.7895,33.2527 C40.7655,33.2662 40.7400,33.2782 40.7122,33.2917 C40.7025,33.2962 40.6942,33.3007 40.6837,33.3052 C40.6747,33.3105 40.6657,33.3157 40.6567,33.3195 C40.6477,33.3240 40.6410,33.3277 40.6335,33.3322 C40.6072,33.3450 40.5825,33.3570 40.5555,33.3705 C40.5322,33.3840 40.5067,33.3952 40.4835,33.4080 C40.4820,33.4087 40.4820,33.4087 40.4797,33.4087 C40.4797,33.4087 40.4782,33.4102 40.4767,33.4102 C40.4512,33.4245 40.4265,33.4365 40.3972,33.4507 C40.3777,33.4620 40.3560,33.4725 40.3342,33.4845 C40.3305,33.4852 40.3290,33.4867 40.3275,33.4875 C40.3252,33.4882 40.3230,33.4897 40.3200,33.4912 C40.2930,33.5047 40.2675,33.5175 40.2420,33.5310 C40.2165,33.5452 40.1895,33.5587 40.1640,33.5722 C40.1370,33.5857 40.1122,33.5985 40.0860,33.6127 C40.0605,33.6270 40.0335,33.6405 40.0080,33.6540 C39.9832,33.6667 39.9562,33.6810 39.9300,33.6952 C39.9037,33.7095 39.8790,33.7230 39.8520,33.7372 C39.8512,33.7372 39.8505,33.7380 39.8482,33.7387 L39.8475,33.7402 C39.8467,33.7402 39.8467,33.7402 39.8460,33.7402 C39.8227,33.7537 39.7980,33.7650 39.7740,33.7785 C39.7477,33.7927 39.7230,33.8062 39.6960,33.8212 C39.6705,33.8347 39.6457,33.8475 39.6187,33.8625 C39.5933,33.8775 39.5677,33.8902 39.5407,33.9045 C39.5152,33.9187 39.4897,33.9330 39.4635,33.9480 C39.4357,33.9615 39.4110,33.9742 39.3840,33.9900 C39.3592,34.0042 39.3345,34.0185 39.3075,34.0327 C39.2820,34.0470 39.2565,34.0605 39.2302,34.0755 C39.2040,34.0905 39.1793,34.1040 39.1522,34.1190 C39.1267,34.1332 39.1012,34.1467 39.0743,34.1617 C39.0495,34.1760 39.0240,34.1895 38.9970,34.2060 C38.9722,34.2202 38.9460,34.2337 38.9198,34.2487 C38.8935,34.2637 38.8695,34.2772 38.8432,34.2930 C38.8170,34.3080 38.7922,34.3215 38.7652,34.3365 C38.7397,34.3507 38.7157,34.3665 38.6880,34.3807 C38.6640,34.3965 38.6377,34.4100 38.6107,34.4242 C38.5852,34.4392 38.5605,34.4535 38.5327,34.4685 C38.5088,34.4835 38.4833,34.4985 38.4578,34.5135 C38.4322,34.5292 38.4060,34.5435 38.3797,34.5577 C38.3543,34.5735 38.3288,34.5877 38.3025,34.6027 C38.2762,34.6178 38.2522,34.6327 38.2252,34.6470 C38.1998,34.6628 38.1750,34.6777 38.1487,34.6927 C38.1232,34.7085 38.0977,34.7228 38.0715,34.7377 C38.0460,34.7535 38.0205,34.7678 37.9935,34.7842 C37.9695,34.7992 37.9440,34.8135 37.9177,34.8285 C37.8915,34.8442 37.8660,34.8592 37.8413,34.8742 C37.8195,34.8877 37.7970,34.9005 37.7730,34.9148 C37.7662,34.9185 37.7587,34.9230 37.7512,34.9275 C37.7303,34.9410 37.7092,34.9522 37.6875,34.9665 C37.6635,34.9815 37.6365,34.9965 37.6102,35.0130 C37.5862,35.0280 37.5607,35.0423 37.5353,35.0580 C37.5090,35.0737 37.4850,35.0895 37.4580,35.1045 C37.4325,35.1202 37.4077,35.1352 37.3808,35.1517 C37.3777,35.1532 37.3740,35.1547 37.3725,35.1562 C37.3710,35.1562 37.3710,35.1570 37.3710,35.1570 C37.3492,35.1705 37.3267,35.1840 37.3065,35.1982 C37.2795,35.2140 37.2540,35.2283 37.2285,35.2440 C37.2030,35.2597 37.1790,35.2755 37.1528,35.2912 C37.1265,35.3070 37.1002,35.3227 37.0755,35.3377 C37.0507,35.3535 37.0245,35.3685 36.9990,35.3850 C36.9892,35.3910 36.9810,35.3962 36.9727,35.4007 C36.9697,35.4022 36.9668,35.4037 36.9653,35.4052 C36.9517,35.4142 36.9375,35.4225 36.9232,35.4315 C36.8985,35.4465 36.8707,35.4622 36.8467,35.4787 C36.8213,35.4945 36.7972,35.5095 36.7695,35.5260 C36.7455,35.5417 36.7200,35.5567 36.6945,35.5732 C36.6697,35.5890 36.6442,35.6047 36.6187,35.6205 C36.6030,35.6302 36.5872,35.6385 36.5715,35.6490 C36.5610,35.6565 36.5490,35.6640 36.5363,35.6707 C36.5130,35.6857 36.4905,35.7000 36.4657,35.7150 C36.4425,35.7307 36.4155,35.7472 36.3907,35.7630 C36.3660,35.7780 36.3405,35.7952 36.3142,35.8102 C36.2895,35.8260 36.2647,35.8425 36.2385,35.8582 C36.2137,35.8740 36.1897,35.8890 36.1635,35.9055 C36.1552,35.9107 36.1462,35.9167 36.1380,35.9220 C36.1260,35.9295 36.1148,35.9370 36.1012,35.9437 C36.0975,35.9468 36.0922,35.9505 36.0870,35.9535 C36.0630,35.9692 36.0375,35.9865 36.0127,36.0007 C35.9865,36.0180 35.9610,36.0345 35.9363,36.0487 C35.9108,36.0645 35.8860,36.0810 35.8597,36.0982 C35.8350,36.1140 35.8102,36.1297 35.7847,36.1462 C35.7593,36.1620 35.7338,36.1785 35.7083,36.1942 C35.7045,36.1965 35.7008,36.1987 35.6970,36.2017 C35.6925,36.2047 35.6880,36.2070 35.6858,36.2100 C35.6678,36.2212 35.6505,36.2317 35.6325,36.2430 C35.6077,36.2587 35.5830,36.2767 35.5567,36.2925 C35.5328,36.3082 35.5080,36.3247 35.4825,36.3405 C35.4562,36.3570 35.4323,36.3742 35.4067,36.3900 C35.3812,36.4057 35.3565,36.4230 35.3310,36.4387 C35.3137,36.4500 35.2980,36.4597 35.2815,36.4717 C35.2583,36.4875 35.2350,36.5017 35.2117,36.5175 C35.2020,36.5235 35.1908,36.5317 35.1795,36.5377 C35.1562,36.5542 35.1323,36.5707 35.1052,36.5865 C35.0805,36.6030 35.0558,36.6210 35.0303,36.6367 C35.0047,36.6525 34.9800,36.6705 34.9545,36.6870 C34.9290,36.7027 34.9058,36.7200 34.8795,36.7357 C34.8592,36.7500 34.8375,36.7627 34.8195,36.7770 C34.8127,36.7800 34.8075,36.7830 34.8045,36.7867 C34.7873,36.7987 34.7707,36.8092 34.7528,36.8212 C34.7453,36.8257 34.7370,36.8325 34.7303,36.8370 C34.7055,36.8535 34.6808,36.8707 34.6560,36.8865 C34.6290,36.9037 34.6058,36.9202 34.5795,36.9367 C34.5533,36.9532 34.5300,36.9712 34.5060,36.9877 C34.4798,37.0042 34.4550,37.0207 34.4295,37.0380 C34.4040,37.0552 34.3800,37.0725 34.3545,37.0890 C34.3538,37.0890 34.3530,37.0905 34.3515,37.0905 C34.3388,37.0995 34.3267,37.1077 34.3140,37.1167 C34.3012,37.1242 34.2923,37.1325 34.2803,37.1385 C34.2547,37.1557 34.2307,37.1737 34.2038,37.1902 C34.1805,37.2067 34.1543,37.2247 34.1310,37.2412 C34.1048,37.2585 34.0808,37.2757 34.0545,37.2930 C34.0305,37.3095 34.0050,37.3267 33.9802,37.3440 C33.9555,37.3612 33.9293,37.3792 33.9045,37.3965 C33.9045,37.3965 33.9038,37.3965 33.9030,37.3965 C33.8768,37.4160 33.8475,37.4355 33.8205,37.4542 C33.7980,37.4700 33.7762,37.4857 33.7545,37.5007 C33.7298,37.5172 33.7058,37.5360 33.6795,37.5532 C33.6547,37.5697 33.6300,37.5885 33.6045,37.6057 C33.5790,37.6230 33.5543,37.6410 33.5280,37.6575 C33.5033,37.6755 33.4785,37.6935 33.4522,37.7100 C33.4373,37.7212 33.4238,37.7310 33.4080,37.7430 C33.3983,37.7505 33.3885,37.7565 33.3787,37.7640 C33.3660,37.7722 33.3532,37.7805 33.3413,37.7895 C33.3285,37.7985 33.3158,37.8067 33.3022,37.8165 C33.2775,37.8330 33.2542,37.8517 33.2287,37.8690 C33.2025,37.8870 33.1762,37.9050 33.1507,37.9230 C33.1252,37.9410 33.1012,37.9605 33.0750,37.9777 C33.0480,37.9965 33.0232,38.0145 32.9977,38.0325 C32.9782,38.0467 32.9572,38.0610 32.9378,38.0752 C32.9317,38.0797 32.9257,38.0842 32.9205,38.0887 C32.9062,38.0985 32.8920,38.1097 32.8770,38.1202 C32.8657,38.1285 32.8553,38.1360 32.8440,38.1442 C32.8177,38.1622 32.7915,38.1825 32.7645,38.2012 C32.7390,38.2200 32.7127,38.2402 32.6865,38.2590 C32.6572,38.2777 32.6317,38.2987 32.6033,38.3190 C32.5747,38.3392 32.5463,38.3617 32.5170,38.3827 C32.5012,38.3940 32.4862,38.4052 32.4705,38.4157 C32.4367,38.4405 32.4045,38.4637 32.3715,38.4892 C32.3542,38.5012 32.3377,38.5140 32.3213,38.5260 C32.2657,38.5672 32.2110,38.6085 32.1555,38.6497 C32.1158,38.6797 32.0760,38.7082 32.0363,38.7390 C32.0160,38.7540 31.9972,38.7675 31.9778,38.7825 C31.9417,38.8087 31.9065,38.8350 31.8712,38.8612 C31.8712,38.8612 31.8712,38.8612 31.8712,38.8620 C31.8360,38.8875 31.8023,38.9137 31.7670,38.9400 C31.7370,38.9625 31.7070,38.9850 31.6770,39.0082 C31.6485,39.0285 31.6192,39.0517 31.5915,39.0720 C31.5645,39.0922 31.5375,39.1132 31.5105,39.1335 C31.4925,39.1485 31.4745,39.1612 31.4565,39.1762 C31.4475,39.1822 31.4407,39.1882 31.4325,39.1935 C31.4235,39.2010 31.4138,39.2092 31.4033,39.2160 C31.3875,39.2287 31.3725,39.2407 31.3560,39.2535 C31.3313,39.2722 31.3050,39.2925 31.2795,39.3120 C31.2532,39.3315 31.2293,39.3502 31.2030,39.3697 C31.1783,39.3892 31.1535,39.4087 31.1280,39.4267 C31.1040,39.4462 31.0793,39.4657 31.0545,39.4845 C31.0290,39.5032 31.0050,39.5235 30.9803,39.5430 C30.9787,39.5430 30.9780,39.5445 30.9765,39.5445 C30.9473,39.5677 30.9173,39.5910 30.8887,39.6142 C30.8693,39.6285 30.8505,39.6427 30.8317,39.6577 C30.8077,39.6765 30.7837,39.6960 30.7583,39.7147 C30.7350,39.7335 30.7110,39.7530 30.6870,39.7717 C30.6630,39.7905 30.6382,39.8100 30.6142,39.8287 C30.5918,39.8475 30.5663,39.8670 30.5423,39.8857 C30.5175,39.9045 30.4935,39.9232 30.4703,39.9427 C30.4658,39.9457 30.4628,39.9487 30.4582,39.9517 C30.4298,39.9735 30.4020,39.9967 30.3742,40.0192 C30.3585,40.0327 30.3428,40.0440 30.3255,40.0575 C30.3023,40.0762 30.2782,40.0957 30.2535,40.1145 C30.2310,40.1332 30.2062,40.1527 30.1830,40.1722 C30.1590,40.1917 30.1342,40.2112 30.1102,40.2300 C30.0878,40.2487 30.0630,40.2682 30.0390,40.2870 C30.0142,40.3072 29.9910,40.3267 29.9663,40.3470 C29.9618,40.3500 29.9572,40.3545 29.9535,40.3575 C29.9355,40.3710 29.9183,40.3837 29.9033,40.3980 C29.9002,40.4002 29.8965,40.4017 29.8928,40.4047 C29.8703,40.4235 29.8470,40.4437 29.8245,40.4625 C29.7997,40.4820 29.7765,40.5015 29.7525,40.5210 C29.7285,40.5405 29.7052,40.5600 29.6805,40.5787 C29.6572,40.5982 29.6333,40.6177 29.6093,40.6372 C29.5860,40.6560 29.5620,40.6762 29.5380,40.6950 C29.5155,40.7145 29.4922,40.7347 29.4682,40.7542 C29.4450,40.7730 29.4210,40.7925 29.3977,40.8127 C29.3903,40.8187 29.3820,40.8247 29.3753,40.8300 C29.3588,40.8435 29.3438,40.8562 29.3280,40.8705 C29.3040,40.8900 29.2807,40.9102 29.2567,40.9297 C29.2327,40.9485 29.2095,40.9695 29.1862,40.9882 C29.1622,41.0077 29.1390,41.0280 29.1158,41.0475 C29.0918,41.0662 29.0692,41.0865 29.0460,41.1060 C29.0235,41.1255 28.9987,41.1450 28.9755,41.1652 C28.9635,41.1757 28.9507,41.1855 28.9395,41.1960 C28.9267,41.2065 28.9177,41.2147 28.9050,41.2237 C28.8878,41.2395 28.8690,41.2560 28.8510,41.2710 C28.8465,41.2747 28.8405,41.2792 28.8360,41.2837 C28.8135,41.3025 28.7895,41.3220 28.7655,41.3422 C28.7430,41.3625 28.7183,41.3820 28.6965,41.4022 C28.6740,41.4210 28.6500,41.4420 28.6260,41.4622 C28.6035,41.4810 28.5803,41.5012 28.5577,41.5207 C28.5352,41.5410 28.5105,41.5612 28.4880,41.5807 C28.4647,41.6010 28.4407,41.6212 28.4190,41.6407 C28.4183,41.6415 28.4160,41.6430 28.4145,41.6437 C28.4002,41.6565 28.3875,41.6685 28.3718,41.6805 C28.3650,41.6880 28.3567,41.6940 28.3485,41.7015 C28.3245,41.7210 28.3035,41.7420 28.2803,41.7615 C28.2570,41.7810 28.2337,41.8020 28.2105,41.8222 C28.1872,41.8410 28.1640,41.8620 28.1423,41.8822 C28.1183,41.9010 28.0950,41.9220 28.0732,41.9422 C28.0507,41.9625 28.0283,41.9835 28.0043,42.0037 C27.9840,42.0195 27.9652,42.0367 27.9473,42.0532 C27.9158,42.0810 27.8835,42.1087 27.8535,42.1365 C27.8348,42.1522 27.8160,42.1687 27.7987,42.1845 C27.7755,42.2047 27.7530,42.2257 27.7290,42.2460 C27.7057,42.2662 27.6840,42.2872 27.6615,42.3075 C27.6390,42.3277 27.6150,42.3487 27.5933,42.3690 C27.5700,42.3892 27.5482,42.4102 27.5250,42.4305 C27.5025,42.4507 27.4785,42.4717 27.4567,42.4920 C27.4432,42.5040 27.4305,42.5152 27.4193,42.5272 C27.3922,42.5520 27.3630,42.5767 27.3360,42.6022 C27.3308,42.6075 27.3262,42.6112 27.3210,42.6165 C27.2985,42.6367 27.2753,42.6585 27.2520,42.6787 C27.2302,42.6990 27.2062,42.7200 27.1845,42.7402 C27.1635,42.7612 27.1395,42.7822 27.1162,42.8032 C27.0945,42.8235 27.0720,42.8452 27.0503,42.8647 C27.0277,42.8865 27.0037,42.9075 26.9813,42.9277 C26.9595,42.9487 26.9363,42.9690 26.9152,42.9907 C26.9115,42.9937 26.9085,42.9967 26.9040,42.9990 C26.8897,43.0140 26.8740,43.0275 26.8590,43.0425 C26.8545,43.0462 26.8500,43.0500 26.8455,43.0545 C26.8230,43.0747 26.8005,43.0957 26.7803,43.1175 C26.7563,43.1377 26.7337,43.1587 26.7105,43.1805 C26.6895,43.2007 26.6663,43.2217 26.6445,43.2435 C26.6227,43.2645 26.5987,43.2855 26.5778,43.3065 C26.5545,43.3275 26.5327,43.3492 26.5110,43.3710 C26.4893,43.3912 26.4660,43.4130 26.4435,43.4340 C26.4360,43.4407 26.4292,43.4475 26.4225,43.4535 C26.4083,43.4677 26.3933,43.4820 26.3768,43.4970 C26.3655,43.5082 26.3550,43.5187 26.3438,43.5292 C26.3325,43.5405 26.3205,43.5502 26.3108,43.5615 C26.2883,43.5825 26.2657,43.6042 26.2433,43.6260 C26.2215,43.6462 26.1998,43.6687 26.1772,43.6890 C26.1548,43.7107 26.1330,43.7325 26.1105,43.7535 C26.0887,43.7752 26.0663,43.7962 26.0445,43.8180 C26.0243,43.8390 26.0003,43.8607 25.9785,43.8825 C25.9567,43.9027 25.9358,43.9237 25.9140,43.9447 C25.9140,43.9455 25.9133,43.9470 25.9118,43.9470 C25.9020,43.9582 25.8908,43.9687 25.8795,43.9792 C25.8623,43.9950 25.8457,44.0130 25.8300,44.0287 C25.8135,44.0445 25.7970,44.0610 25.7813,44.0767 C25.7595,44.0977 25.7378,44.1202 25.7160,44.1405 C25.6943,44.1630 25.6710,44.1847 25.6492,44.2072 C25.6283,44.2275 25.6058,44.2507 25.5840,44.2717 C25.5623,44.2935 25.5405,44.3160 25.5195,44.3370 C25.4978,44.3595 25.4753,44.3812 25.4535,44.4030 C25.4340,44.4225 25.4145,44.4435 25.3943,44.4615 C25.3920,44.4652 25.3897,44.4682 25.3868,44.4705 C25.3657,44.4915 25.3410,44.5110 25.3193,44.5297 C25.3005,44.5470 25.2803,44.5642 25.2623,44.5807 C25.2532,44.5875 25.2458,44.5942 25.2390,44.6002 C25.2187,44.6160 25.1985,44.6302 25.1782,44.6452 C25.1580,44.6602 25.1377,44.6745 25.1175,44.6887 C25.0875,44.7090 25.0560,44.7277 25.0252,44.7450 C25.0230,44.7480 25.0193,44.7495 25.0177,44.7510 C24.9675,44.7802 24.9158,44.8080 24.8648,44.8327 C24.8362,44.8462 24.8078,44.8590 24.7793,44.8710 C24.7417,44.8867 24.7035,44.9017 24.6653,44.9160 C24.6458,44.9235 24.6255,44.9310 24.6060,44.9370 C24.5730,44.9475 24.5430,44.9557 24.5130,44.9647 C24.4867,44.9722 24.4598,44.9790 24.4327,44.9850 C24.3937,44.9925 24.3577,45.0000 24.3210,45.0037 C24.3195,45.0037 24.3187,45.0045 24.3187,45.0045 C24.2828,45.0097 24.2490,45.0142 24.2168,45.0165 C24.1920,45.0180 24.1680,45.0187 24.1455,45.0187 C24.1335,45.0187 24.1215,45.0202 24.1110,45.0202 C24.1103,45.0202 24.1095,45.0202 24.1087,45.0202 C24.0772,45.0187 24.0367,45.0112 23.9932,45.0000 C23.9565,44.9910 23.9145,44.9805 23.8702,44.9647 C23.8680,44.9647 23.8657,44.9647 23.8642,44.9647 C23.8245,44.9497 23.7788,44.9340 23.7315,44.9160 C23.7300,44.9152 23.7270,44.9137 23.7255,44.9137 C23.6865,44.8980 23.6475,44.8815 23.6062,44.8642 C23.5740,44.8515 23.5425,44.8380 23.5087,44.8230 C23.4990,44.8185 23.4900,44.8147 23.4803,44.8095 C23.4420,44.7930 23.4015,44.7742 23.3610,44.7555 C23.3272,44.7397 23.2935,44.7240 23.2560,44.7075 C23.2425,44.7000 23.2283,44.6925 23.2133,44.6857 C23.1750,44.6685 23.1375,44.6490 23.1007,44.6302 C23.0857,44.6235 23.0723,44.6167 23.0565,44.6100 C23.0183,44.5897 22.9785,44.5702 22.9380,44.5492 C22.9230,44.5417 22.9095,44.5350 22.8960,44.5282 C22.8540,44.5080 22.8128,44.4847 22.7685,44.4622 C22.7565,44.4562 22.7430,44.4502 22.7318,44.4450 C22.6860,44.4202 22.6410,44.3970 22.5953,44.3715 C22.5855,44.3662 22.5735,44.3602 22.5638,44.3557 C22.5165,44.3310 22.4685,44.3047 22.4212,44.2785 C22.4108,44.2732 22.4032,44.2687 22.3928,44.2642 C22.3448,44.2365 22.2938,44.2095 22.2442,44.1817 C22.2368,44.1780 22.2300,44.1742 22.2240,44.1697 C22.1715,44.1420 22.1190,44.1135 22.0680,44.0842 C22.0628,44.0812 22.0575,44.0782 22.0523,44.0767 C21.9990,44.0460 21.9450,44.0167 21.8910,43.9860 C21.8872,43.9845 21.8857,43.9830 21.8828,43.9815 C21.4815,43.7557 21.0930,43.5300 20.7750,43.3425 C20.7735,43.3425 20.7735,43.3410 20.7720,43.3402 C20.7382,43.3207 20.7053,43.2997 20.6723,43.2810 C20.6678,43.2787 20.6648,43.2765 20.6610,43.2735 C20.6333,43.2577 20.6063,43.2427 20.5815,43.2262 C20.5673,43.2187 20.5560,43.2112 20.5433,43.2045 C20.5253,43.1940 20.5103,43.1842 20.4945,43.1745 C20.4735,43.1617 20.4540,43.1505 20.4338,43.1385 C20.4210,43.1310 20.4113,43.1242 20.3993,43.1182 C20.3385,43.0815 20.2845,43.0492 20.2365,43.0200 C20.2350,43.0192 20.2350,43.0185 20.2320,43.0177 C20.2118,43.0050 20.1915,42.9937 20.1735,42.9817 C20.1683,42.9787 20.1630,42.9757 20.1578,42.9727 C20.1435,42.9637 20.1323,42.9570 20.1203,42.9502 C20.1150,42.9480 20.1120,42.9450 20.1083,42.9427 C20.0963,42.9360 20.0865,42.9285 20.0783,42.9247 C20.0768,42.9232 20.0738,42.9217 20.0723,42.9210 C20.0633,42.9157 20.0565,42.9112 20.0528,42.9082 C20.0520,42.9075 20.0505,42.9067 20.0490,42.9060 C20.0438,42.9030 20.0415,42.9022 20.0415,42.9022 C19.8098,42.7162 19.5480,42.4440 19.5480,42.2002 C19.5480,42.1725 19.5503,42.1432 19.5525,42.1155 C19.4475,42.4125 19.3838,43.2585 19.4078,43.9792 C19.4228,44.3947 19.4648,44.7690 19.5488,44.9715 C19.6395,45.1965 19.8113,45.4882 20.0423,45.6735 C20.0423,45.6735 22.5870,47.2335 23.7015,47.6752 C23.8755,47.7450 24.0165,47.7870 24.1073,47.7900 C24.4492,47.8057 24.9953,47.5905 25.3860,47.2417 C26.2170,46.5000 27.8010,45.2805 29.6580,43.9072 C29.6123,43.7677 29.5912,43.6072 29.5943,43.4325 C29.6040,43.0627 29.7240,42.6315 29.9588,42.2152 C30.2123,41.7637 30.6053,41.3880 31.0200,41.0700 C32.8148,39.6682 34.4228,38.6205 35.9730,37.6282 C36.3712,37.3162 36.7995,37.2060 37.1138,37.3837 C37.2645,37.4685 37.3695,37.6102 37.4355,37.7902 C37.4887,37.9380 37.5150,38.1120 37.5098,38.3017 C39.4793,36.9367 40.9725,35.9377 41.2792,35.7825 C41.5282,35.6572 41.5695,35.3820 41.6175,35.1555 C41.6602,34.9515 41.6955,34.6072 41.7172,34.2195 C41.7855,33.5572 41.7772,32.7750 41.6902,32.3430 Z" style="fill-rule: evenodd; fill: url(#grad2006); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad2007" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#dae1e1" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#707070" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M41.9737,34.2637 L41.9737,42.7785 L41.9737,44.7285 L42.8100,44.7285 C42.3285,45.3495 41.7855,45.9390 41.1832,46.4880 C39.9787,47.5822 38.5387,48.5092 36.9052,49.1895 L36.9052,47.9917 L25.2570,47.9917 L25.2570,48.8625 C24.6113,48.5070 24.0090,48.0915 23.4600,47.6182 C22.3628,46.6703 21.4837,45.4912 20.9092,44.1112 C19.7602,41.3497 20.0437,38.2972 21.4320,35.5972 C22.1265,34.2465 23.0962,32.9827 24.3007,31.8877 C24.6022,31.6147 24.9195,31.3507 25.2487,31.1002 L25.2487,31.8412 L41.9737,31.8412 L41.9737,34.2637 Z" style="fill-rule: evenodd; fill: url(#grad2007); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad2008" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#7f8787" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#dae1e1" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M41.6498,32.3730 C41.6498,32.3445 41.6483,32.3153 41.6438,32.2860 C41.6415,32.2740 41.6378,32.2620 41.6363,32.2500 C41.6325,32.2343 41.6273,32.2185 41.6243,32.2028 C41.6175,32.1788 41.6085,32.1548 41.5988,32.1308 C41.5973,32.1270 41.5973,32.1240 41.5958,32.1210 C41.5830,32.0940 41.5703,32.0670 41.5568,32.0415 C41.5530,32.0370 41.5515,32.0318 41.5478,32.0273 C41.5275,31.9920 41.5043,31.9590 41.4795,31.9253 C41.4758,31.9208 41.4728,31.9163 41.4690,31.9118 C41.4458,31.8818 41.4188,31.8533 41.3910,31.8240 C41.3895,31.8218 41.3880,31.8195 41.3835,31.8165 C41.2208,31.6350 41.0550,31.5090 41.0550,31.5090 L38.1885,29.9475 C36.9465,29.5650 35.8935,29.9160 35.8935,29.9160 C26.5283,33.9615 20.4443,40.7783 19.9673,41.4480 C19.9193,41.5148 19.8780,41.5740 19.8413,41.6280 C19.7153,41.8118 19.6440,41.9280 19.6103,41.9873 L19.6103,41.9880 C19.6073,42.0000 19.6020,42.0128 19.6005,42.0247 C19.5975,42.0397 19.5938,42.0547 19.5923,42.0690 C19.5885,42.0833 19.5863,42.0983 19.5840,42.1118 C19.5818,42.1395 19.5795,42.1688 19.5795,42.1965 C19.5795,42.4395 19.8420,42.7125 20.0730,42.8985 C20.0730,42.8985 20.0760,42.9000 20.0805,42.9023 C20.0820,42.9030 20.0835,42.9038 20.0843,42.9045 C20.0888,42.9075 20.0955,42.9120 20.1038,42.9172 C20.1053,42.9180 20.1083,42.9195 20.1098,42.9210 C20.1180,42.9255 20.1278,42.9330 20.1398,42.9390 C20.1435,42.9413 20.1465,42.9442 20.1518,42.9465 C20.1638,42.9533 20.1750,42.9607 20.1893,42.9690 C20.1945,42.9720 20.1998,42.9750 20.2050,42.9780 C20.2230,42.9900 20.2433,43.0012 20.2635,43.0140 C20.2665,43.0147 20.2665,43.0155 20.2680,43.0162 C20.3153,43.0455 20.3700,43.0777 20.4308,43.1145 C20.4428,43.1213 20.4525,43.1280 20.4653,43.1347 C20.4855,43.1467 20.5050,43.1587 20.5260,43.1707 C20.5418,43.1805 20.5568,43.1903 20.5748,43.2007 C20.5875,43.2082 20.5988,43.2157 20.6130,43.2225 C20.6378,43.2383 20.6648,43.2540 20.6925,43.2697 C20.6955,43.2728 20.6993,43.2750 20.7038,43.2772 C20.7368,43.2960 20.7698,43.3170 20.8035,43.3365 C20.8050,43.3372 20.8050,43.3387 20.8065,43.3387 C21.5333,43.7685 22.6433,44.4060 23.4053,44.7585 C23.4405,44.7750 23.4765,44.7922 23.5110,44.8065 C23.5133,44.8080 23.5163,44.8095 23.5193,44.8110 C23.5275,44.8140 23.5335,44.8170 23.5395,44.8200 C23.5688,44.8335 23.6003,44.8462 23.6288,44.8582 C23.6730,44.8770 23.7150,44.8950 23.7563,44.9107 C23.7578,44.9107 23.7593,44.9122 23.7608,44.9122 C23.7608,44.9122 23.7615,44.9122 23.7623,44.9130 C23.8095,44.9310 23.8553,44.9475 23.8950,44.9617 C23.8950,44.9617 23.8958,44.9617 23.8965,44.9617 C23.8973,44.9617 23.8995,44.9617 23.9010,44.9617 C23.9453,44.9775 23.9873,44.9880 24.0240,44.9970 C24.0683,45.0090 24.1080,45.0157 24.1395,45.0172 C24.1403,45.0172 24.1410,45.0172 24.1418,45.0172 C24.1523,45.0172 24.1643,45.0157 24.1763,45.0157 C24.1980,45.0150 24.2228,45.0150 24.2475,45.0135 C24.2798,45.0112 24.3135,45.0067 24.3495,45.0015 C24.3495,45.0015 24.3503,45.0007 24.3518,45.0007 C24.3840,44.9962 24.4155,44.9917 24.4485,44.9850 C24.4538,44.9835 24.4598,44.9820 24.4643,44.9820 C24.4913,44.9752 24.5183,44.9685 24.5445,44.9617 C24.5745,44.9527 24.6045,44.9445 24.6375,44.9340 C24.6570,44.9272 24.6773,44.9197 24.6968,44.9130 C24.7065,44.9092 24.7155,44.9070 24.7245,44.9032 C24.7530,44.8920 24.7823,44.8807 24.8108,44.8680 C24.8123,44.8680 24.8123,44.8680 24.8130,44.8680 C24.8393,44.8552 24.8678,44.8432 24.8963,44.8297 C24.9233,44.8162 24.9503,44.8027 24.9780,44.7877 C25.0013,44.7742 25.0253,44.7607 25.0493,44.7472 C25.0508,44.7457 25.0545,44.7442 25.0568,44.7412 C25.0838,44.7262 25.1093,44.7105 25.1348,44.6940 C25.1603,44.6775 25.1835,44.6587 25.2098,44.6415 C25.2338,44.6242 25.2593,44.6062 25.2833,44.5875 C25.3058,44.5680 25.3298,44.5462 25.3515,44.5260 C25.3733,44.5072 25.3980,44.4877 25.4190,44.4667 C25.4190,44.4660 25.4205,44.4660 25.4205,44.4645 C25.4228,44.4630 25.4258,44.4615 25.4265,44.4577 C25.4468,44.4397 25.4663,44.4187 25.4858,44.3992 C25.5075,44.3775 25.5300,44.3557 25.5518,44.3332 C25.5728,44.3122 25.5945,44.2897 25.6163,44.2680 C25.6380,44.2470 25.6605,44.2237 25.6815,44.2035 C25.7033,44.1810 25.7265,44.1592 25.7483,44.1367 C25.7700,44.1165 25.7918,44.0940 25.8135,44.0730 C25.8293,44.0572 25.8458,44.0400 25.8623,44.0250 C25.8683,44.0190 25.8728,44.0145 25.8788,44.0085 C25.8900,43.9972 25.9005,43.9875 25.9118,43.9755 C25.9230,43.9650 25.9343,43.9537 25.9463,43.9410 C25.9680,43.9200 25.9890,43.8990 26.0108,43.8787 C26.0325,43.8570 26.0565,43.8352 26.0768,43.8142 C26.0985,43.7925 26.1210,43.7715 26.1428,43.7497 C26.1653,43.7287 26.1870,43.7070 26.2095,43.6852 C26.2320,43.6650 26.2538,43.6425 26.2755,43.6222 C26.2980,43.6005 26.3205,43.5787 26.3430,43.5577 C26.3528,43.5465 26.3648,43.5367 26.3760,43.5255 C26.4015,43.5007 26.4285,43.4745 26.4540,43.4497 C26.4615,43.4430 26.4683,43.4362 26.4750,43.4302 C26.4975,43.4092 26.5208,43.3875 26.5425,43.3672 C26.5643,43.3455 26.5860,43.3237 26.6093,43.3027 C26.6303,43.2817 26.6543,43.2607 26.6760,43.2397 C26.6978,43.2180 26.7210,43.1970 26.7420,43.1767 C26.7653,43.1550 26.7878,43.1340 26.8118,43.1137 C26.8320,43.0920 26.8545,43.0710 26.8770,43.0507 C26.8815,43.0462 26.8860,43.0425 26.8905,43.0387 C26.9055,43.0237 26.9213,43.0102 26.9355,42.9952 C26.9400,42.9930 26.9430,42.9900 26.9468,42.9870 C26.9678,42.9652 26.9910,42.9450 27.0128,42.9240 C27.0353,42.9037 27.0593,42.8827 27.0818,42.8610 C27.1035,42.8415 27.1260,42.8197 27.1478,42.7995 C27.1710,42.7785 27.1950,42.7575 27.2160,42.7365 C27.2378,42.7162 27.2618,42.6952 27.2835,42.6750 C27.3068,42.6547 27.3300,42.6330 27.3525,42.6127 C27.3578,42.6075 27.3623,42.6037 27.3675,42.5985 C27.3840,42.5827 27.4028,42.5670 27.4193,42.5512 C27.4305,42.5415 27.4395,42.5325 27.4508,42.5242 C27.4620,42.5122 27.4748,42.5010 27.4883,42.4890 C27.5100,42.4687 27.5340,42.4477 27.5565,42.4275 C27.5798,42.4072 27.6015,42.3862 27.6248,42.3660 C27.6465,42.3457 27.6705,42.3247 27.6930,42.3045 C27.7155,42.2842 27.7373,42.2632 27.7605,42.2430 C27.7845,42.2227 27.8070,42.2017 27.8303,42.1815 C27.8475,42.1657 27.8663,42.1492 27.8850,42.1335 C27.8903,42.1290 27.8933,42.1252 27.8985,42.1215 C27.9210,42.1005 27.9443,42.0802 27.9683,42.0607 C27.9713,42.0570 27.9735,42.0525 27.9795,42.0495 C27.9975,42.0330 28.0163,42.0157 28.0365,42.0000 C28.0605,41.9797 28.0830,41.9587 28.1055,41.9385 C28.1265,41.9182 28.1505,41.8972 28.1745,41.8785 C28.1963,41.8582 28.2195,41.8372 28.2428,41.8185 C28.2660,41.7982 28.2893,41.7772 28.3125,41.7577 C28.3358,41.7382 28.3568,41.7172 28.3808,41.6977 C28.3898,41.6895 28.3973,41.6835 28.4040,41.6767 C28.4198,41.6647 28.4325,41.6527 28.4468,41.6400 C28.4483,41.6392 28.4505,41.6377 28.4513,41.6370 C28.4730,41.6175 28.4970,41.5972 28.5203,41.5770 C28.5428,41.5575 28.5675,41.5372 28.5900,41.5170 C28.6125,41.4975 28.6358,41.4772 28.6583,41.4585 C28.6823,41.4382 28.7055,41.4172 28.7288,41.3985 C28.7505,41.3783 28.7753,41.3587 28.7978,41.3385 C28.8218,41.3182 28.8450,41.2987 28.8683,41.2800 C28.8728,41.2755 28.8788,41.2710 28.8833,41.2672 C28.9125,41.2417 28.9418,41.2170 28.9718,41.1915 C28.9830,41.1810 28.9958,41.1712 29.0078,41.1607 C29.0310,41.1405 29.0550,41.1210 29.0783,41.1015 C29.1015,41.0820 29.1240,41.0617 29.1480,41.0430 C29.1713,41.0235 29.1945,41.0032 29.2185,40.9837 C29.2410,40.9650 29.2650,40.9440 29.2890,40.9252 C29.3123,40.9057 29.3363,40.8855 29.3603,40.8660 C29.3760,40.8517 29.3910,40.8390 29.4075,40.8255 C29.4383,40.8000 29.4698,40.7745 29.5005,40.7490 C29.5245,40.7295 29.5478,40.7092 29.5703,40.6897 C29.5943,40.6710 29.6175,40.6508 29.6415,40.6320 C29.6655,40.6125 29.6888,40.5930 29.7128,40.5735 C29.7375,40.5547 29.7600,40.5353 29.7848,40.5158 C29.8080,40.4962 29.8320,40.4767 29.8568,40.4572 C29.8793,40.4385 29.9025,40.4183 29.9250,40.3995 C29.9288,40.3965 29.9325,40.3950 29.9355,40.3927 C29.9513,40.3785 29.9678,40.3658 29.9858,40.3523 C29.9895,40.3493 29.9940,40.3448 29.9985,40.3417 C30.0225,40.3215 30.0458,40.3020 30.0713,40.2818 C30.0953,40.2630 30.1193,40.2435 30.1425,40.2248 C30.1658,40.2060 30.1905,40.1865 30.2153,40.1670 C30.2385,40.1475 30.2625,40.1280 30.2858,40.1093 C30.3105,40.0905 30.3338,40.0710 30.3578,40.0523 C30.3750,40.0388 30.3915,40.0275 30.4065,40.0140 C30.4148,40.0073 30.4215,40.0005 30.4290,39.9952 C30.4493,39.9795 30.4703,39.9630 30.4905,39.9472 C30.4950,39.9443 30.4980,39.9413 30.5025,39.9383 C30.5250,39.9188 30.5498,39.9000 30.5745,39.8812 C30.5978,39.8625 30.6233,39.8430 30.6465,39.8243 C30.6698,39.8055 30.6945,39.7860 30.7193,39.7672 C30.7425,39.7485 30.7665,39.7290 30.7905,39.7103 C30.8153,39.6915 30.8393,39.6720 30.8640,39.6532 C30.8828,39.6382 30.9015,39.6240 30.9210,39.6097 C30.9255,39.6045 30.9323,39.6000 30.9368,39.5948 C30.9623,39.5768 30.9855,39.5587 31.0088,39.5400 C31.0103,39.5400 31.0110,39.5385 31.0125,39.5385 C31.0365,39.5190 31.0605,39.4988 31.0868,39.4800 C31.1108,39.4613 31.1355,39.4418 31.1603,39.4222 C31.1850,39.4042 31.2098,39.3848 31.2353,39.3653 C31.2608,39.3458 31.2848,39.3270 31.3118,39.3075 C31.3365,39.2880 31.3628,39.2678 31.3883,39.2490 C31.4048,39.2362 31.4198,39.2242 31.4355,39.2115 C31.4535,39.1988 31.4708,39.1845 31.4888,39.1710 C31.5068,39.1560 31.5248,39.1433 31.5428,39.1282 C31.5698,39.1080 31.5968,39.0870 31.6238,39.0668 C31.6515,39.0465 31.6808,39.0232 31.7093,39.0030 C31.7393,38.9798 31.7693,38.9572 31.7993,38.9348 C31.8345,38.9085 31.8683,38.8823 31.9035,38.8568 C31.9035,38.8560 31.9035,38.8560 31.9035,38.8560 C31.9388,38.8298 31.9740,38.8035 32.0100,38.7773 C32.0295,38.7623 32.0483,38.7488 32.0685,38.7338 C32.1083,38.7030 32.1480,38.6745 32.1878,38.6445 C32.2425,38.6033 32.2973,38.5620 32.3535,38.5208 C32.3700,38.5088 32.3865,38.4960 32.4038,38.4840 C32.4210,38.4705 32.4398,38.4578 32.4563,38.4450 C32.4720,38.4338 32.4870,38.4225 32.5028,38.4105 C32.5185,38.4000 32.5335,38.3888 32.5493,38.3775 C32.5785,38.3565 32.6070,38.3340 32.6355,38.3138 C32.6640,38.2935 32.6895,38.2725 32.7188,38.2538 C32.7450,38.2350 32.7713,38.2147 32.7968,38.1960 C32.8238,38.1773 32.8500,38.1570 32.8763,38.1390 C32.8875,38.1308 32.8980,38.1233 32.9093,38.1150 C32.9288,38.1000 32.9498,38.0858 32.9700,38.0700 C32.9895,38.0558 33.0105,38.0415 33.0300,38.0273 C33.0548,38.0093 33.0795,37.9913 33.1073,37.9725 C33.1328,37.9553 33.1575,37.9358 33.1830,37.9178 C33.2085,37.8998 33.2340,37.8818 33.2610,37.8638 C33.2858,37.8465 33.3090,37.8278 33.3345,37.8113 C33.3480,37.8015 33.3608,37.7933 33.3735,37.7843 C33.3953,37.7685 33.4185,37.7520 33.4403,37.7370 C33.4560,37.7250 33.4695,37.7153 33.4845,37.7040 C33.5100,37.6875 33.5348,37.6695 33.5603,37.6515 C33.5858,37.6350 33.6105,37.6170 33.6368,37.5998 C33.6615,37.5825 33.6863,37.5638 33.7118,37.5473 C33.7373,37.5300 33.7613,37.5113 33.7868,37.4948 C33.8085,37.4798 33.8303,37.4640 33.8528,37.4483 C33.8558,37.4460 33.8588,37.4445 33.8618,37.4423 C33.8873,37.4250 33.9113,37.4078 33.9360,37.3905 C33.9368,37.3905 33.9375,37.3905 33.9375,37.3905 C33.9615,37.3733 33.9878,37.3553 34.0133,37.3380 C34.0373,37.3208 34.0628,37.3035 34.0875,37.2870 C34.1130,37.2698 34.1370,37.2525 34.1640,37.2353 C34.1865,37.2188 34.2128,37.2008 34.2368,37.1843 C34.2630,37.1678 34.2870,37.1498 34.3133,37.1325 C34.3253,37.1258 34.3343,37.1175 34.3470,37.1108 C34.3598,37.1018 34.3718,37.0928 34.3845,37.0845 C34.3860,37.0845 34.3868,37.0830 34.3875,37.0830 C34.4123,37.0665 34.4363,37.0493 34.4625,37.0320 C34.4873,37.0148 34.5120,36.9983 34.5390,36.9818 C34.5623,36.9653 34.5863,36.9473 34.6125,36.9308 C34.6388,36.9143 34.6613,36.8978 34.6890,36.8805 C34.7130,36.8648 34.7378,36.8475 34.7633,36.8310 C34.7708,36.8258 34.7790,36.8190 34.7858,36.8153 C34.8075,36.8010 34.8308,36.7860 34.8525,36.7710 C34.8705,36.7568 34.8923,36.7440 34.9125,36.7298 C34.9380,36.7140 34.9613,36.6968 34.9875,36.6810 C35.0123,36.6645 35.0378,36.6465 35.0633,36.6308 C35.0888,36.6150 35.1128,36.5970 35.1383,36.5805 C35.1645,36.5648 35.1885,36.5483 35.2125,36.5318 C35.2238,36.5250 35.2350,36.5168 35.2448,36.5115 C35.2605,36.5010 35.2733,36.4928 35.2890,36.4830 C35.2973,36.4778 35.3063,36.4718 35.3145,36.4665 C35.3310,36.4545 35.3468,36.4448 35.3640,36.4335 C35.3888,36.4178 35.4143,36.4005 35.4398,36.3848 C35.4653,36.3690 35.4885,36.3518 35.5155,36.3353 C35.5403,36.3195 35.5650,36.3030 35.5898,36.2873 C35.6153,36.2715 35.6400,36.2535 35.6655,36.2378 C35.6835,36.2265 35.7008,36.2160 35.7188,36.2048 C35.7210,36.2018 35.7255,36.1995 35.7300,36.1965 C35.7338,36.1935 35.7375,36.1913 35.7413,36.1890 C35.7660,36.1733 35.7915,36.1568 35.8178,36.1410 C35.8425,36.1245 35.8673,36.1080 35.8928,36.0930 C35.9183,36.0758 35.9430,36.0593 35.9693,36.0435 C35.9933,36.0285 36.0188,36.0128 36.0458,35.9955 C36.0698,35.9805 36.0953,35.9633 36.1200,35.9483 C36.1253,35.9453 36.1305,35.9415 36.1343,35.9385 C36.1478,35.9310 36.1590,35.9235 36.1710,35.9168 C36.1793,35.9108 36.1883,35.9048 36.1965,35.9003 C36.2220,35.8838 36.2460,35.8680 36.2715,35.8530 C36.2970,35.8373 36.3218,35.8208 36.3473,35.8050 C36.3728,35.7900 36.3983,35.7728 36.4238,35.7578 C36.4478,35.7420 36.4748,35.7255 36.4988,35.7098 C36.5235,35.6948 36.5460,35.6805 36.5693,35.6655 C36.5715,35.6648 36.5738,35.6640 36.5760,35.6625 C36.5865,35.6558 36.5955,35.6490 36.6045,35.6438 C36.6203,35.6333 36.6368,35.6250 36.6518,35.6153 C36.6765,35.5995 36.7020,35.5830 36.7275,35.5680 C36.7523,35.5523 36.7778,35.5373 36.8025,35.5208 C36.8295,35.5050 36.8535,35.4893 36.8798,35.4735 C36.9030,35.4578 36.9308,35.4413 36.9563,35.4263 C36.9705,35.4173 36.9848,35.4090 36.9983,35.4000 C36.9998,35.3985 37.0028,35.3970 37.0058,35.3955 C37.0140,35.3903 37.0223,35.3850 37.0320,35.3798 C37.0568,35.3640 37.0830,35.3490 37.1085,35.3325 C37.1325,35.3175 37.1588,35.3018 37.1858,35.2860 C37.2113,35.2703 37.2360,35.2545 37.2615,35.2388 C37.2870,35.2230 37.3118,35.2088 37.3395,35.1930 C37.3598,35.1788 37.3823,35.1653 37.4040,35.1518 C37.4040,35.1518 37.4040,35.1510 37.4055,35.1510 C37.4070,35.1495 37.4108,35.1480 37.4138,35.1465 C37.4400,35.1308 37.4648,35.1150 37.4910,35.0993 C37.5173,35.0843 37.5413,35.0685 37.5683,35.0528 C37.5930,35.0370 37.6185,35.0228 37.6433,35.0078 C37.6688,34.9920 37.6958,34.9763 37.7205,34.9613 C37.7423,34.9470 37.7633,34.9358 37.7843,34.9223 C37.7895,34.9193 37.7925,34.9178 37.7978,34.9155 C37.8000,34.9133 37.8038,34.9110 37.8068,34.9095 C37.8308,34.8953 37.8533,34.8825 37.8750,34.8690 C37.8990,34.8540 37.9245,34.8390 37.9515,34.8233 C37.9770,34.8083 38.0025,34.7940 38.0273,34.7790 C38.0535,34.7633 38.0790,34.7483 38.1053,34.7325 C38.1308,34.7175 38.1563,34.7040 38.1825,34.6875 C38.2080,34.6725 38.2328,34.6575 38.2590,34.6418 C38.2853,34.6275 38.3100,34.6125 38.3363,34.5975 C38.3625,34.5825 38.3873,34.5683 38.4135,34.5525 C38.4390,34.5383 38.4653,34.5240 38.4915,34.5083 C38.5163,34.4933 38.5418,34.4783 38.5665,34.4633 C38.5935,34.4483 38.6183,34.4340 38.6445,34.4190 C38.6708,34.4048 38.6970,34.3913 38.7218,34.3755 C38.7488,34.3613 38.7728,34.3455 38.7990,34.3313 C38.8260,34.3163 38.8508,34.3028 38.8770,34.2878 C38.9025,34.2720 38.9273,34.2585 38.9535,34.2435 C38.9798,34.2285 39.0053,34.2150 39.0308,34.2008 C39.0570,34.1850 39.0825,34.1708 39.1080,34.1565 C39.1343,34.1415 39.1598,34.1280 39.1860,34.1138 C39.2123,34.0988 39.2378,34.0853 39.2640,34.0703 C39.2903,34.0553 39.3150,34.0418 39.3413,34.0275 C39.3675,34.0132 39.3923,33.9990 39.4178,33.9848 C39.4448,33.9690 39.4695,33.9563 39.4973,33.9428 C39.5228,33.9278 39.5483,33.9135 39.5745,33.8993 C39.6008,33.8850 39.6263,33.8723 39.6525,33.8573 C39.6788,33.8423 39.7035,33.8295 39.7298,33.8160 C39.7568,33.8010 39.7815,33.7875 39.8078,33.7733 C39.8310,33.7598 39.8558,33.7485 39.8798,33.7350 C39.8805,33.7350 39.8813,33.7343 39.8820,33.7335 C39.8843,33.7328 39.8850,33.7320 39.8858,33.7320 C39.9120,33.7178 39.9368,33.7043 39.9638,33.6900 C39.9893,33.6758 40.0163,33.6615 40.0418,33.6488 C40.0665,33.6353 40.0935,33.6218 40.1198,33.6075 C40.1460,33.5933 40.1707,33.5805 40.1978,33.5670 C40.2225,33.5535 40.2495,33.5400 40.2758,33.5258 C40.3012,33.5123 40.3268,33.4995 40.3538,33.4860 C40.3785,33.4718 40.4055,33.4583 40.4310,33.4455 C40.4603,33.4313 40.4850,33.4193 40.5105,33.4050 C40.5120,33.4050 40.5135,33.4043 40.5135,33.4043 C40.5158,33.4035 40.5158,33.4035 40.5173,33.4028 C40.5398,33.3900 40.5653,33.3788 40.5893,33.3653 C40.6163,33.3518 40.6410,33.3398 40.6673,33.3270 C40.6755,33.3225 40.6823,33.3188 40.6905,33.3143 C40.6995,33.3105 40.7085,33.3053 40.7175,33.3000 C40.7280,33.2955 40.7363,33.2910 40.7460,33.2865 C40.7730,33.2730 40.7985,33.2610 40.8233,33.2475 C40.8368,33.2423 40.8465,33.2363 40.8585,33.2310 C40.8713,33.2250 40.8818,33.2190 40.8945,33.2138 C40.8975,33.2123 40.9013,33.2108 40.9043,33.2093 C40.9260,33.1988 40.9463,33.1883 40.9680,33.1785 C40.9905,33.1680 41.0100,33.1583 41.0303,33.1485 C41.0738,33.1290 41.1135,33.1095 41.1547,33.0900 C41.1705,33.0833 41.1840,33.0758 41.1983,33.0705 C41.2500,33.0465 41.3010,33.0233 41.3475,33.0015 C41.6025,32.8875 41.6858,32.6063 41.6858,32.3745 C41.6513,32.3783 41.6498,32.3753 41.6498,32.3730 Z" style="fill-rule: evenodd; fill: url(#grad2008); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2009">
+        <stop offset="0%" stop-color="#ededed" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7f8787" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2009" id="grad2010" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(-0 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M55.2600,42.5355 C55.2412,42.4125 55.1662,42.2992 55.0470,42.2003 C54.9540,42.1215 41.8215,34.6950 41.8215,34.6950 L41.8042,34.7078 L41.7052,34.7790 L37.4767,37.8135 L29.6295,43.4445 L23.7375,47.6730 L23.3122,47.9768 L37.0282,55.7812 C39.4695,54.0510 55.0852,42.9787 55.1708,42.8595 C55.2315,42.7777 55.2652,42.6885 55.2652,42.5962 C55.2652,42.5955 55.2652,42.5940 55.2652,42.5940 C55.2645,42.5745 55.2622,42.5543 55.2600,42.5355 Z M38.2013,40.4865 C38.0332,40.3403 37.9470,40.1655 37.9470,39.9832 C37.9470,39.8115 38.0250,39.6450 38.1765,39.5025 C38.2650,39.4177 41.5192,37.0920 41.6235,37.0395 C41.8950,36.9000 42.2430,36.8235 42.6060,36.8235 C42.9000,36.8235 43.1835,36.8723 43.4242,36.9660 C43.4798,36.9862 51.8790,41.7068 52.0635,41.8695 C52.2300,42.0150 52.3185,42.1898 52.3185,42.3728 C52.3185,42.5340 52.2487,42.6922 52.1160,42.8272 C52.0223,42.9232 48.6578,45.2775 48.5160,45.3450 C48.2505,45.4733 47.9175,45.5430 47.5755,45.5430 C47.2935,45.5430 47.0182,45.4965 46.7835,45.4087 C46.5877,45.3360 38.3257,40.5975 38.2013,40.4865 Z M32.8253,42.7275 C32.9183,42.5602 33.0945,42.4582 33.2835,42.4582 C33.3728,42.4582 33.4612,42.4815 33.5400,42.5257 L34.9882,43.3357 C35.2402,43.4775 35.3310,43.7977 35.1908,44.0512 C35.0970,44.2177 34.9222,44.3198 34.7303,44.3198 C34.6417,44.3198 34.5533,44.2965 34.4730,44.2522 L33.0277,43.4422 C32.7750,43.3005 32.6842,42.9795 32.8253,42.7275 Z M38.7150,48.0187 C38.9685,48.1597 39.0592,48.4815 38.9182,48.7335 C38.8245,48.9000 38.6490,49.0027 38.4593,49.0027 C38.3693,49.0027 38.2807,48.9795 38.2027,48.9353 L36.7537,48.1252 C36.5010,47.9835 36.4110,47.6625 36.5520,47.4097 C36.6450,47.2432 36.8212,47.1405 37.0110,47.1405 C37.1002,47.1405 37.1888,47.1645 37.2675,47.2087 L38.7150,48.0187 Z M38.7495,46.0237 C38.8440,45.8572 39.0187,45.7553 39.2100,45.7553 C39.2985,45.7553 39.3870,45.7785 39.4665,45.8227 L40.9140,46.6328 C41.1667,46.7738 41.2560,47.0947 41.1157,47.3483 C41.0227,47.5140 40.8472,47.6167 40.6575,47.6167 C40.5675,47.6167 40.4790,47.5935 40.3987,47.5493 L38.9535,46.7393 C38.7000,46.5975 38.6085,46.2765 38.7495,46.0237 Z M38.1525,45.7230 C38.0595,45.8887 37.8840,45.9922 37.6935,45.9922 C37.6035,45.9922 37.5165,45.9690 37.4370,45.9240 L35.9902,45.1140 C35.7367,44.9730 35.6460,44.6520 35.7877,44.3993 C35.8800,44.2328 36.0562,44.1307 36.2468,44.1307 C36.3360,44.1307 36.4245,44.1532 36.5033,44.1975 L37.9500,45.0083 C38.2035,45.1493 38.2935,45.4703 38.1525,45.7230 Z M35.7525,46.3942 C36.0068,46.5353 36.0945,46.8562 35.9550,47.1090 C35.8620,47.2747 35.6872,47.3782 35.4960,47.3782 C35.4067,47.3782 35.3182,47.3550 35.2387,47.3108 L33.7912,46.5008 C33.5377,46.3590 33.4492,46.0380 33.5895,45.7852 C33.6833,45.6187 33.8595,45.5167 34.0500,45.5167 C34.1378,45.5167 34.2270,45.5400 34.3057,45.5827 L35.7525,46.3942 Z M30.6270,44.1128 C30.7208,43.9463 30.8955,43.8442 31.0860,43.8442 C31.1745,43.8442 31.2630,43.8675 31.3425,43.9110 L32.7900,44.7218 C33.0427,44.8627 33.1335,45.1845 32.9925,45.4365 C32.8995,45.6037 32.7233,45.7058 32.5335,45.7058 C32.4435,45.7058 32.3565,45.6825 32.2770,45.6382 L30.8295,44.8282 C30.5752,44.6857 30.4868,44.3648 30.6270,44.1128 Z M28.6432,48.5902 C28.5495,48.7567 28.3733,48.8587 28.1850,48.8587 C28.0942,48.8587 28.0072,48.8355 27.9278,48.7912 L26.4795,47.9812 C26.2260,47.8395 26.1375,47.5185 26.2792,47.2657 C26.3715,47.0992 26.5470,46.9973 26.7367,46.9973 C26.8260,46.9973 26.9160,47.0205 26.9925,47.0647 L28.4407,47.8755 C28.6950,48.0165 28.7850,48.3375 28.6432,48.5902 Z M28.6200,45.6892 C28.7130,45.5235 28.8885,45.4207 29.0797,45.4207 C29.1690,45.4207 29.2567,45.4432 29.3363,45.4882 L30.7815,46.2982 C31.0350,46.4392 31.1265,46.7602 30.9847,47.0137 C30.8917,47.1795 30.7170,47.2822 30.5250,47.2822 C30.4372,47.2822 30.3480,47.2590 30.2685,47.2147 L28.8232,46.4040 C28.5690,46.2637 28.4782,45.9427 28.6200,45.6892 Z M31.6065,50.2627 C31.5135,50.4292 31.3380,50.5320 31.1475,50.5320 C31.0575,50.5320 30.9697,50.5088 30.8917,50.4645 L29.4442,49.6545 C29.1915,49.5128 29.1007,49.1918 29.2410,48.9383 C29.3347,48.7725 29.5102,48.6690 29.7015,48.6690 C29.7885,48.6690 29.8785,48.6937 29.9572,48.7373 L31.4040,49.5480 C31.6575,49.6883 31.7490,50.0093 31.6065,50.2627 Z M31.5818,47.3625 C31.6762,47.1960 31.8517,47.0940 32.0415,47.0940 C32.1315,47.0940 32.2192,47.1165 32.2972,47.1607 L33.7463,47.9708 C33.9990,48.1125 34.0890,48.4335 33.9465,48.6855 C33.8550,48.8527 33.6787,48.9547 33.4890,48.9547 C33.4005,48.9547 33.3098,48.9323 33.2325,48.8880 L31.7850,48.0772 C31.5315,47.9355 31.4415,47.6145 31.5818,47.3625 Z M34.5690,51.8873 C34.4752,52.0530 34.3012,52.1565 34.1100,52.1565 C34.0207,52.1565 33.9322,52.1333 33.8535,52.0890 L32.4068,51.2790 C32.1525,51.1373 32.0625,50.8163 32.2042,50.5628 C32.2958,50.3970 32.4728,50.2950 32.6632,50.2950 C32.7525,50.2950 32.8410,50.3182 32.9197,50.3625 L34.3665,51.1725 C34.6193,51.3135 34.7100,51.6338 34.5690,51.8873 Z M34.5457,48.9870 C34.6387,48.8213 34.8143,48.7185 35.0048,48.7185 C35.0932,48.7185 35.1818,48.7410 35.2605,48.7845 L36.7087,49.5953 C36.9622,49.7370 37.0508,50.0580 36.9105,50.3115 C36.8168,50.4773 36.6413,50.5792 36.4515,50.5792 C36.3623,50.5792 36.2730,50.5575 36.1942,50.5125 L34.7475,49.7025 C34.4940,49.5592 34.4047,49.2398 34.5457,48.9870 Z M37.5307,53.7038 C37.4393,53.8695 37.2630,53.9715 37.0725,53.9715 C36.9832,53.9715 36.8940,53.9490 36.8152,53.9048 L35.3692,53.0940 C35.1158,52.9530 35.0250,52.6320 35.1668,52.3792 C35.2598,52.2127 35.4345,52.1108 35.6250,52.1108 C35.7143,52.1108 35.8027,52.1333 35.8815,52.1775 L37.3297,52.9875 C37.5810,53.1293 37.6732,53.4502 37.5307,53.7038 Z M39.6818,52.0305 C39.5888,52.1970 39.4125,52.2998 39.2235,52.2998 C39.1327,52.2998 39.0450,52.2757 38.9670,52.2323 L38.3437,51.8468 C38.0910,51.7058 38.0002,51.3848 38.1412,51.1320 C38.2350,50.9662 38.4105,50.8628 38.6003,50.8628 C38.6902,50.8628 38.7772,50.8860 38.8575,50.9303 L39.4793,51.3150 C39.7328,51.4568 39.8242,51.7778 39.6818,52.0305 Z M41.6880,50.4532 C41.5965,50.6205 41.4202,50.7225 41.2290,50.7225 C41.1405,50.7225 41.0513,50.7000 40.9740,50.6550 L40.3507,50.2710 C40.0973,50.1293 40.0073,49.8083 40.1490,49.5555 C40.2412,49.3890 40.4167,49.2870 40.6088,49.2870 C40.6965,49.2870 40.7858,49.3102 40.8630,49.3537 L41.4878,49.7385 C41.7382,49.8803 41.8305,50.2013 41.6880,50.4532 Z M43.8870,49.0680 C43.7940,49.2345 43.6177,49.3365 43.4280,49.3365 C43.3395,49.3365 43.2502,49.3132 43.1707,49.2705 L42.5482,48.8850 C42.2955,48.7432 42.2055,48.4222 42.3472,48.1695 C42.4395,48.0030 42.6158,47.9010 42.8070,47.9010 C42.8963,47.9010 42.9833,47.9242 43.0620,47.9678 L43.6837,48.3525 C43.9365,48.4935 44.0280,48.8153 43.8870,49.0680 Z M46.2315,47.3722 C46.1595,47.4952 46.0305,47.5650 45.8985,47.5650 C45.8340,47.5650 45.7695,47.5493 45.7103,47.5148 L41.8080,45.2880 C41.3678,45.3668 40.7265,45.2468 40.0890,44.9287 C39.3067,44.5373 38.7622,43.9635 38.6790,43.5045 L35.3250,41.5898 C35.1420,41.4847 35.0775,41.2515 35.1818,41.0685 C35.2875,40.8855 35.5207,40.8217 35.7030,40.9267 L39.1028,42.8655 C39.5415,42.7282 40.2510,42.8370 40.9598,43.1917 C41.8095,43.6177 42.3810,44.2582 42.3788,44.7353 L46.0890,46.8518 C46.2720,46.9553 46.3357,47.1885 46.2315,47.3722 Z" style="fill-rule: evenodd; fill: url(#grad2010); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2011">
+        <stop offset="0%" stop-color="#7ab04a" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#ccff66" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2011" id="grad2012" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(-0 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M37.3298,52.9875 L35.8815,52.1775 C35.8035,52.1332 35.7143,52.1107 35.6250,52.1107 C35.4345,52.1107 35.2598,52.2135 35.1668,52.3792 C35.0250,52.6320 35.1158,52.9537 35.3692,53.0940 L36.8153,53.9047 C36.8933,53.9490 36.9833,53.9715 37.0725,53.9715 C37.2630,53.9715 37.4393,53.8687 37.5308,53.7037 C37.6733,53.4502 37.5810,53.1292 37.3298,52.9875 Z" style="fill-rule: evenodd; fill: url(#grad2012); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2013">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2013" id="grad2014" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M33.0278,43.4422 L34.4730,44.2522 C34.5525,44.2965 34.6418,44.3197 34.7303,44.3197 C34.9223,44.3197 35.0970,44.2170 35.1908,44.0512 C35.3318,43.7977 35.2403,43.4775 34.9883,43.3357 L33.5400,42.5257 C33.4620,42.4815 33.3728,42.4582 33.2835,42.4582 C33.0945,42.4582 32.9183,42.5610 32.8253,42.7275 C32.6843,42.9795 32.7750,43.3005 33.0278,43.4422 Z" style="fill-rule: evenodd; fill: url(#grad2014); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2015">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2015" id="grad2016" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M37.9500,45.0082 L36.5032,44.1975 C36.4252,44.1532 36.3360,44.1307 36.2467,44.1307 C36.0562,44.1307 35.8800,44.2335 35.7877,44.3992 C35.6460,44.6520 35.7367,44.9730 35.9902,45.1140 L37.4370,45.9240 C37.5157,45.9690 37.6035,45.9922 37.6935,45.9922 C37.8840,45.9922 38.0595,45.8880 38.1525,45.7230 C38.2935,45.4702 38.2035,45.1492 37.9500,45.0082 Z" style="fill-rule: evenodd; fill: url(#grad2016); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2017">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2017" id="grad2018" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M38.9527,46.7400 L40.3980,47.5500 C40.4775,47.5942 40.5667,47.6175 40.6568,47.6175 C40.8465,47.6175 41.0220,47.5140 41.1150,47.3490 C41.2560,47.0955 41.1660,46.7745 40.9132,46.6335 L39.4657,45.8235 C39.3870,45.7792 39.2977,45.7560 39.2092,45.7560 C39.0180,45.7560 38.8432,45.8587 38.7487,46.0245 C38.6085,46.2765 38.7000,46.5975 38.9527,46.7400 Z" style="fill-rule: evenodd; fill: url(#grad2018); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2019">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2019" id="grad2020" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M43.6837,48.3525 L43.0620,47.9678 C42.9840,47.9243 42.8962,47.9010 42.8070,47.9010 C42.6157,47.9010 42.4395,48.0038 42.3472,48.1695 C42.2055,48.4223 42.2955,48.7433 42.5482,48.8850 L43.1707,49.2705 C43.2495,49.3133 43.3395,49.3365 43.4280,49.3365 C43.6177,49.3365 43.7940,49.2338 43.8870,49.0680 C44.0280,48.8152 43.9365,48.4935 43.6837,48.3525 Z" style="fill-rule: evenodd; fill: url(#grad2020); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2021">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2021" id="grad2022" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M30.8287,44.8283 L32.2763,45.6383 C32.3550,45.6825 32.4428,45.7058 32.5327,45.7058 C32.7225,45.7058 32.8987,45.6030 32.9917,45.4365 C33.1327,45.1845 33.0420,44.8628 32.7893,44.7218 L31.3418,43.9110 C31.2630,43.8675 31.1737,43.8443 31.0852,43.8443 C30.8948,43.8443 30.7200,43.9470 30.6262,44.1128 C30.4867,44.3648 30.5752,44.6858 30.8287,44.8283 Z" style="fill-rule: evenodd; fill: url(#grad2022); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2023">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2023" id="grad2024" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M34.0500,45.5167 C33.8595,45.5167 33.6833,45.6195 33.5895,45.7852 C33.4485,46.0380 33.5378,46.3590 33.7913,46.5007 L35.2388,47.3107 C35.3175,47.3550 35.4068,47.3782 35.4960,47.3782 C35.6873,47.3782 35.8620,47.2740 35.9550,47.1090 C36.0953,46.8562 36.0068,46.5345 35.7525,46.3942 L34.3058,45.5827 C34.2278,45.5400 34.1378,45.5167 34.0500,45.5167 Z" style="fill-rule: evenodd; fill: url(#grad2024); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2025">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2025" id="grad2026" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M37.0118,47.1405 C36.8220,47.1405 36.6458,47.2440 36.5528,47.4098 C36.4118,47.6625 36.5018,47.9835 36.7545,48.1253 L38.2035,48.9353 C38.2815,48.9795 38.3700,49.0028 38.4600,49.0028 C38.6498,49.0028 38.8253,48.8993 38.9190,48.7335 C39.0600,48.4815 38.9693,48.1598 38.7158,48.0188 L37.2683,47.2088 C37.1895,47.1645 37.1010,47.1405 37.0118,47.1405 Z" style="fill-rule: evenodd; fill: url(#grad2026); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2027">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2027" id="grad2028" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M41.4878,49.7385 L40.8630,49.3538 C40.7858,49.3103 40.6965,49.2870 40.6088,49.2870 C40.4168,49.2870 40.2413,49.3898 40.1490,49.5555 C40.0073,49.8083 40.0973,50.1293 40.3508,50.2710 L40.9740,50.6550 C41.0513,50.7000 41.1405,50.7225 41.2290,50.7225 C41.4203,50.7225 41.5965,50.6198 41.6880,50.4533 C41.8305,50.2013 41.7383,49.8803 41.4878,49.7385 Z" style="fill-rule: evenodd; fill: url(#grad2028); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2029">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2029" id="grad2030" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M30.5250,47.2822 C30.7170,47.2822 30.8918,47.1787 30.9848,47.0137 C31.1258,46.7602 31.0343,46.4392 30.7815,46.2982 L29.3363,45.4882 C29.2575,45.4432 29.1690,45.4207 29.0798,45.4207 C28.8885,45.4207 28.7130,45.5242 28.6200,45.6892 C28.4783,45.9427 28.5690,46.2638 28.8233,46.4040 L30.2685,47.2147 C30.3480,47.2590 30.4373,47.2822 30.5250,47.2822 Z" style="fill-rule: evenodd; fill: url(#grad2030); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2031">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2031" id="grad2032" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M33.4882,48.9548 C33.6780,48.9548 33.8542,48.8520 33.9457,48.6855 C34.0882,48.4335 33.9982,48.1125 33.7455,47.9708 L32.2965,47.1608 C32.2185,47.1165 32.1307,47.0940 32.0407,47.0940 C31.8510,47.0940 31.6755,47.1968 31.5810,47.3625 C31.4400,47.6145 31.5307,47.9363 31.7842,48.0773 L33.2318,48.8880 C33.3090,48.9315 33.3997,48.9548 33.4882,48.9548 Z" style="fill-rule: evenodd; fill: url(#grad2032); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2033">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2033" id="grad2034" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M36.4507,50.5792 C36.6405,50.5792 36.8160,50.4765 36.9097,50.3115 C37.0507,50.0580 36.9615,49.7370 36.7080,49.5952 L35.2598,48.7845 C35.1818,48.7410 35.0925,48.7185 35.0040,48.7185 C34.8135,48.7185 34.6380,48.8220 34.5450,48.9870 C34.4040,49.2397 34.4932,49.5600 34.7468,49.7025 L36.1935,50.5125 C36.2723,50.5567 36.3615,50.5792 36.4507,50.5792 Z" style="fill-rule: evenodd; fill: url(#grad2034); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2035">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2035" id="grad2036" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M39.4800,51.3150 L38.8582,50.9302 C38.7787,50.8860 38.6910,50.8627 38.6010,50.8627 C38.4112,50.8627 38.2357,50.9670 38.1420,51.1320 C38.0010,51.3847 38.0917,51.7057 38.3445,51.8467 L38.9677,52.2322 C39.0457,52.2757 39.1335,52.2997 39.2242,52.2997 C39.4132,52.2997 39.5895,52.1962 39.6825,52.0305 C39.8242,51.7777 39.7327,51.4567 39.4800,51.3150 Z" style="fill-rule: evenodd; fill: url(#grad2036); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2037">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2037" id="grad2038" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M28.4415,47.8755 L26.9932,47.0647 C26.9167,47.0205 26.8267,46.9972 26.7375,46.9972 C26.5477,46.9972 26.3722,47.1000 26.2800,47.2657 C26.1382,47.5185 26.2267,47.8395 26.4802,47.9812 L27.9285,48.7912 C28.0072,48.8355 28.0950,48.8587 28.1857,48.8587 C28.3740,48.8587 28.5502,48.7560 28.6440,48.5902 C28.7850,48.3375 28.6950,48.0165 28.4415,47.8755 Z" style="fill-rule: evenodd; fill: url(#grad2038); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2039">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2039" id="grad2040" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M31.4040,49.5480 L29.9573,48.7372 C29.8793,48.6937 29.7885,48.6690 29.7015,48.6690 C29.5103,48.6690 29.3348,48.7732 29.2410,48.9382 C29.1000,49.1917 29.1915,49.5127 29.4443,49.6545 L30.8918,50.4645 C30.9698,50.5087 31.0575,50.5320 31.1475,50.5320 C31.3380,50.5320 31.5135,50.4285 31.6065,50.2627 C31.7490,50.0093 31.6575,49.6882 31.4040,49.5480 Z" style="fill-rule: evenodd; fill: url(#grad2040); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2041">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2041" id="grad2042" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(225 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M34.3665,51.1725 L32.9198,50.3625 C32.8418,50.3183 32.7525,50.2950 32.6633,50.2950 C32.4728,50.2950 32.2958,50.3978 32.2043,50.5628 C32.0625,50.8163 32.1525,51.1373 32.4068,51.2790 L33.8535,52.0890 C33.9315,52.1333 34.0208,52.1565 34.1100,52.1565 C34.3013,52.1565 34.4753,52.0523 34.5690,51.8873 C34.7100,51.6338 34.6193,51.3135 34.3665,51.1725 Z" style="fill-rule: evenodd; fill: url(#grad2042); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2043">
+        <stop offset="0%" stop-color="#000000" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#9db2c1" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2043" id="grad2044" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M46.0883,46.8503 L42.3780,44.7338 C42.3780,44.8155 42.3638,44.8928 42.3293,44.9633 C42.2423,45.1358 42.0563,45.2445 41.8080,45.2888 L45.7103,47.5155 C45.7695,47.5500 45.8340,47.5658 45.8985,47.5658 C46.0313,47.5658 46.1603,47.4960 46.2315,47.3730 C46.3358,47.1885 46.2720,46.9553 46.0883,46.8503 Z" style="fill-rule: evenodd; fill: url(#grad2044); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2045">
+        <stop offset="0%" stop-color="#000000" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#9db2c1" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2045" id="grad2046" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M38.7187,43.1550 C38.7870,43.0162 38.9227,42.9202 39.1027,42.8640 L35.7030,40.9252 C35.5207,40.8202 35.2867,40.8840 35.1817,41.0670 C35.0775,41.2500 35.1420,41.4840 35.3250,41.5882 L38.6790,43.5030 C38.6565,43.3770 38.6662,43.2592 38.7187,43.1550 Z" style="fill-rule: evenodd; fill: url(#grad2046); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad2047" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#669999" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M42.3285,44.9625 C42.3637,44.8920 42.3772,44.8155 42.3772,44.7330 C42.3795,44.2560 41.8080,43.6163 40.9582,43.1895 C40.2502,42.8348 39.5400,42.7268 39.1012,42.8633 C38.9220,42.9195 38.7855,43.0155 38.7172,43.1543 C38.6647,43.2585 38.6550,43.3763 38.6767,43.5030 C38.7600,43.9620 39.3045,44.5358 40.0867,44.9273 C40.7242,45.2460 41.3655,45.3660 41.8057,45.2865 C42.0555,45.2438 42.2415,45.1358 42.3285,44.9625 Z" style="fill-rule: evenodd; fill: url(#grad2047); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M52.0628,41.8695 C51.8790,41.7068 43.4798,36.9863 43.4235,36.9660 C43.1828,36.8722 42.8993,36.8235 42.6053,36.8235 C42.2430,36.8235 41.8950,36.9008 41.6228,37.0395 C41.5185,37.0920 38.2643,39.4177 38.1758,39.5025 C38.0250,39.6443 37.9463,39.8107 37.9463,39.9833 C37.9463,40.1655 38.0325,40.3403 38.2005,40.4865 C38.3250,40.5975 46.5870,45.3368 46.7820,45.4095 C47.0168,45.4973 47.2920,45.5438 47.5740,45.5438 C47.9160,45.5438 48.2490,45.4740 48.5145,45.3458 C48.6555,45.2775 52.0208,42.9240 52.1145,42.8280 C52.2473,42.6923 52.3170,42.5340 52.3170,42.3735 C52.3178,42.1898 52.2293,42.0158 52.0628,41.8695 Z M51.9158,42.6218 C51.7718,42.7447 48.5393,45.0053 48.3900,45.0878 C48.1650,45.1973 47.8748,45.2573 47.5755,45.2573 C47.3273,45.2573 47.0880,45.2168 46.8893,45.1433 C46.6380,45.0293 38.6790,40.4648 38.3865,40.2683 C38.3160,40.2045 38.2335,40.1040 38.2335,39.9833 C38.2335,39.8903 38.2808,39.7980 38.3693,39.7148 C38.5223,39.5873 41.6272,37.3695 41.7548,37.2945 C41.9865,37.1760 42.2880,37.1100 42.6068,37.1100 C42.8655,37.1100 43.1123,37.1535 43.3178,37.2315 C43.5840,37.3545 51.5963,41.9010 51.8797,42.0893 C51.9503,42.1530 52.0320,42.2528 52.0320,42.3735 C52.0312,42.4590 51.9908,42.5453 51.9158,42.6218 Z" style="fill-rule: evenodd; fill: #ffffff; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad2048">
+        <stop offset="0%" stop-color="#1e729f" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#66ccff" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad2048" id="grad2049" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(-0 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M51.8790,42.0885 C51.5955,41.9003 43.5832,37.3538 43.3170,37.2308 C43.1115,37.1528 42.8640,37.1093 42.6060,37.1093 C42.2873,37.1093 41.9858,37.1753 41.7540,37.2938 C41.6265,37.3688 38.5215,39.5865 38.3685,39.7140 C38.2807,39.7973 38.2328,39.8895 38.2328,39.9825 C38.2328,40.1033 38.3153,40.2038 38.3858,40.2675 C38.6782,40.4640 46.6373,45.0285 46.8885,45.1425 C47.0872,45.2167 47.3265,45.2565 47.5748,45.2565 C47.8740,45.2565 48.1643,45.1965 48.3893,45.0870 C48.5385,45.0045 51.7710,42.7440 51.9150,42.6210 C51.9908,42.5438 52.0305,42.4582 52.0305,42.3720 C52.0313,42.2520 51.9495,42.1523 51.8790,42.0885 Z" style="fill-rule: evenodd; fill: url(#grad2049); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M37.1475,37.3800 C36.8332,37.2030 36.4057,37.3125 36.0067,37.6245 C34.4565,38.6167 32.8477,39.6645 31.0537,41.0662 C30.6390,41.3850 30.2460,41.7607 29.9925,42.2115 C29.7577,42.6278 29.6370,43.0590 29.6280,43.4287 L37.4692,37.7865 C37.4033,37.6065 37.2982,37.4647 37.1475,37.3800 Z" style="fill-rule: evenodd; fill: #3f3f3f; "/>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

@@ -1,0 +1,393 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="0.5340000000" height="0.8484000000" viewBox="0 0 38.4465 61.0838">
+  <title><![CDATA[Virtual Machine 1]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M38.4285,40.5623 L38.4450,40.5532 L38.4285,38.2492 L38.4225,38.2530 L37.9290,38.0182 L38.0228,37.9627 L38.4293,37.7310 L38.4293,37.7235 L38.4293,37.7220 L38.4293,37.7160 L38.4307,37.7160 L38.4255,22.6807 L38.4382,22.7070 L38.4465,13.8623 L38.4233,13.8135 L38.4217,6.7223 L26.3505,0.0000 L16.0590,5.9160 L13.7295,7.2547 L12.4560,7.9755 L12.4733,7.9770 L10.3688,9.1868 L10.3380,9.1830 L3.6323,13.0582 L0.0060,15.1455 L0.0060,15.1470 L0.0060,15.1478 L0.0000,51.3645 L0.0000,53.0677 L0.5842,53.4150 C2.1495,55.4160 5.3955,57.3263 8.9767,58.3425 L13.6447,61.0770 L38.4420,46.8180 L38.4420,46.8150 L38.4420,46.8135 L38.4412,46.1632 L38.4390,46.1648 L38.4412,46.1632 L38.4375,44.0205 L38.4285,44.0250 L38.4285,44.0160 L38.4173,44.0205 L38.4150,44.0205 L37.9050,43.7640 L38.4270,43.4670 L38.4285,41.1367 L38.4240,41.1397 L37.8945,40.8818 L38.4270,40.5802 L38.4270,40.5698 L38.4285,40.5682 L38.4285,40.5623 Z M31.4220,42.2962 L31.4325,42.2917 L31.4482,42.3023 L31.4393,42.3068 L31.4220,42.2962 Z M33.7920,43.8225 L33.7800,43.8150 L33.7868,43.8120 L33.7987,43.8180 L33.7920,43.8225 Z M36.1575,45.3420 L36.1530,45.3450 L36.1373,45.3345 L36.1410,45.3315 L36.1575,45.3420 Z M37.9065,46.4708 L37.9058,46.4723 L37.9050,46.4723 L37.9065,46.4708 Z" style="stroke-width: 1.5000; stroke: #8d99b5; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; fill: none; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5758">
+        <stop offset="0%" stop-color="#b2e0e5" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7ac2c8" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5758" id="grad5759" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.0067,15.1425 L0.0007,53.0685 L26.3737,39.4717 L26.3498,0.0007 L0.0067,15.1425 Z" style="fill-rule: evenodd; fill: url(#grad5759); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M25.8847,39.3210 L26.3182,39.0967 L26.3475,0.0120 L25.9237,0.2550 L25.8847,39.3210 Z" style="fill-rule: evenodd; fill: #ffffff; fill-opacity: 0.3490; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.0030,53.0730 L26.3753,39.0472 L38.4398,46.8150 L13.6410,61.0800 L0.0030,53.0730 Z" style="fill-rule: evenodd; fill: #7eb9c2; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5760">
+        <stop offset="0%" stop-color="#8dd4de" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#73bcc0" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5760" id="grad5761" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M38.4270,44.0265 L37.8878,43.7715 L38.4270,43.4670 L38.4270,41.1405 L37.8878,40.8840 L38.4270,40.5795 L38.4255,38.2695 L37.9042,38.0318 L38.4255,37.7272 L38.4188,6.7260 L26.3460,0.0398 L26.3617,39.0195 L38.4420,46.8150 L38.4270,44.0265 Z" style="fill-rule: evenodd; fill: url(#grad5761); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad5762" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#c6e8ed" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#93d6e1" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M26.3737,39.4748 L0.8400,53.0655 L13.6117,60.4620 L37.4205,46.7302 L26.3737,39.4748 Z" style="fill-rule: evenodd; fill: url(#grad5762); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5763">
+        <stop offset="0%" stop-color="#8acac7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#5294a0" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5763" id="grad5764" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M23.3558,46.9500 L38.4285,38.2560 L37.9275,38.0175 L23.3558,46.3380 L23.3558,46.9500 Z" style="fill-rule: evenodd; fill: url(#grad5764); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5765">
+        <stop offset="0%" stop-color="#8acac7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#5294a0" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5765" id="grad5766" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M23.3558,49.8300 L38.4285,41.1330 L37.8892,40.8780 L23.3558,49.2180 L23.3558,49.8300 Z" style="fill-rule: evenodd; fill: url(#grad5766); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5767">
+        <stop offset="0%" stop-color="#8acac7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#5294a0" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5767" id="grad5768" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M23.3558,52.7085 L38.4285,44.0130 L37.8892,43.7565 L23.3558,52.0957 L23.3558,52.7085 Z" style="fill-rule: evenodd; fill: url(#grad5768); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5769">
+        <stop offset="0%" stop-color="#5294a0" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#8acac7" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5769" id="grad5770" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M13.6447,38.3955 L26.8350,30.9202 L26.3475,30.6810 L13.6447,37.7827 L13.6447,38.3955 Z" style="fill-rule: evenodd; fill: url(#grad5770); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5771">
+        <stop offset="0%" stop-color="#5294a0" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#8acac7" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5771" id="grad5772" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M13.6447,41.2755 L26.8350,33.7973 L26.3092,33.5423 L13.6447,40.6613 L13.6447,41.2755 Z" style="fill-rule: evenodd; fill: url(#grad5772); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5773">
+        <stop offset="0%" stop-color="#5294a0" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#8acac7" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5773" id="grad5774" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M13.6448,44.1540 L26.8298,36.6817 L26.3093,36.4222 L13.6448,43.5412 L13.6448,44.1540 Z" style="fill-rule: evenodd; fill: url(#grad5774); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5775">
+        <stop offset="0%" stop-color="#8acac7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#5294a0" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5775" id="grad5776" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M26.2995,36.9615 L37.4708,44.0130 L37.8990,43.7625 L26.8290,36.6757 L26.2995,36.9615 Z" style="fill-rule: evenodd; fill: url(#grad5776); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5777">
+        <stop offset="0%" stop-color="#8acac7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#5294a0" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5777" id="grad5778" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M26.2995,34.0755 L37.4708,41.1255 L37.8990,40.8750 L26.8290,33.7897 L26.2995,34.0755 Z" style="fill-rule: evenodd; fill: url(#grad5778); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5779">
+        <stop offset="0%" stop-color="#8acac7" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#5294a0" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5779" id="grad5780" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M26.2995,31.2218 L37.4813,38.2770 L37.9297,38.0205 L26.8290,30.9367 L26.2995,31.2218 Z" style="fill-rule: evenodd; fill: url(#grad5780); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5781">
+        <stop offset="0%" stop-color="#42767b" stop-opacity="0.6510"/>
+        <stop offset="100%" stop-color="#8fd4db" stop-opacity="0.6510"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5781" id="grad5782" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M13.6515,21.7432 L0.0008,15.1455 L0.0008,53.0730 L0.5850,53.4158 C0.4590,53.2545 0.3428,53.0918 0.2385,52.9313 L0.2385,36.4282 L0.2385,32.7502 L0.2385,24.8753 L0.2385,16.9350 L12.5722,23.0317 C12.5722,23.0317 12.6195,23.0370 12.6435,23.0385 L12.6435,31.0328 L12.6435,38.8537 L12.6435,42.7635 L12.6435,59.0348 C11.4165,58.9253 10.1783,58.6845 8.9775,58.3433 L13.6455,61.0838 L13.6515,21.7432 Z" style="fill-rule: evenodd; fill: url(#grad5782); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5783">
+        <stop offset="0%" stop-color="#7abebf" stop-opacity="0.8510"/>
+        <stop offset="100%" stop-color="#c0e2e3" stop-opacity="0.8510"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5783" id="grad5784" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M12.1215,42.7575 C12.1215,42.8175 12.0495,42.8700 11.9550,42.8700 C11.9482,42.8700 11.9295,42.8700 11.9295,42.8700 C8.2485,42.9255 3.4455,41.2500 0.7312,37.1018 C0.5468,36.8760 0.3795,36.6518 0.2377,36.4282 L0.2377,52.9312 C0.3840,53.1585 0.3547,53.1233 0.5843,53.4158 C2.1495,55.4167 5.3955,57.3270 8.9768,58.3432 C10.1775,58.6845 11.4158,58.9245 12.6428,59.0347 L12.6428,42.7635 C12.4620,42.7485 12.2835,42.7282 12.1020,42.7065 C12.1140,42.7207 12.1215,42.7387 12.1215,42.7575 Z M11.7532,56.9873 C11.5537,57.6188 10.5097,57.8513 9.4215,57.5070 C8.3347,57.1613 7.6155,56.3700 7.8150,55.7392 C8.0160,55.1062 9.0593,54.8752 10.1467,55.2195 C11.2350,55.5630 11.9543,56.3542 11.7532,56.9873 Z M11.9558,54.4575 C11.9490,54.4575 11.9303,54.4575 11.9303,54.4575 C8.1112,54.5145 3.0862,52.7130 0.4373,48.2160 C0.2468,47.8980 0.4740,47.9273 0.4740,47.9273 C2.1510,50.7630 7.0950,53.7413 11.8650,54.2205 C11.8860,54.2220 11.9550,54.2265 11.9633,54.2265 C12.0570,54.2265 12.1223,54.2850 12.1223,54.3450 C12.1223,54.4050 12.0503,54.4575 11.9558,54.4575 Z M11.9558,50.5935 C11.9490,50.5935 11.9303,50.5935 11.9303,50.5935 C8.1112,50.6520 3.0862,48.8505 0.4373,44.3520 C0.2468,44.0355 0.4740,44.0663 0.4740,44.0663 C2.1510,46.9005 7.0950,49.8787 11.8650,50.3580 C11.8860,50.3610 11.9550,50.3655 11.9633,50.3655 C12.0570,50.3655 12.1223,50.4210 12.1223,50.4840 C12.1215,50.5418 12.0503,50.5935 11.9558,50.5935 Z M11.9558,46.7317 C11.9490,46.7317 11.9303,46.7317 11.9303,46.7317 C8.1112,46.7902 3.0862,44.9873 0.4373,40.4902 C0.2468,40.1738 0.4740,40.2030 0.4740,40.2030 C2.1510,43.0387 7.0950,46.0155 11.8650,46.4948 C11.8860,46.4978 11.9550,46.5023 11.9633,46.5023 C12.0570,46.5023 12.1223,46.5593 12.1223,46.6193 C12.1215,46.6822 12.0503,46.7317 11.9558,46.7317 Z" style="fill-rule: evenodd; fill: url(#grad5784); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5785">
+        <stop offset="0%" stop-color="#78bebe" stop-opacity="0.6510"/>
+        <stop offset="100%" stop-color="#def0ef" stop-opacity="0.6510"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5785" id="grad5786" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M11.8642,31.0463 C11.8852,31.0493 11.9542,31.0537 11.9625,31.0537 C12.0563,31.0537 12.1215,31.1092 12.1215,31.1723 C12.1215,31.2322 12.0495,31.2832 11.9550,31.2832 C11.9482,31.2832 11.9295,31.2832 11.9295,31.2832 C8.3010,31.3372 3.5842,29.7113 0.8505,25.6898 C0.6173,25.4205 0.4110,25.1468 0.2385,24.8752 L0.2385,32.7502 C0.5130,33.1792 0.8707,33.6090 1.2968,34.0290 C0.9900,33.6338 0.7013,33.2130 0.4373,32.7645 C0.2468,32.4480 0.4740,32.4788 0.4740,32.4788 C1.6208,34.4167 4.2930,36.4207 7.3943,37.6485 C8.8538,38.1832 10.4085,38.5785 11.9580,38.7780 C11.9595,38.7780 11.9625,38.7780 11.9632,38.7780 C11.9715,38.7780 11.9767,38.7810 11.9850,38.7825 C12.1815,38.8042 12.3765,38.8282 12.5730,38.8470 C12.5970,38.8485 12.6203,38.8515 12.6443,38.8545 L12.6443,31.0327 C9.8895,30.7852 7.0680,29.8710 4.7573,28.6358 C6.8490,29.8680 9.3802,30.7965 11.8642,31.0463 Z M11.9557,35.1450 C11.9490,35.1450 11.9303,35.1465 11.9303,35.1465 C8.1112,35.2020 3.0863,33.4020 0.4373,28.9043 C0.2467,28.5870 0.4740,28.6163 0.4740,28.6163 C2.1510,31.4520 7.0950,34.4287 11.8650,34.9080 C11.8860,34.9110 11.9550,34.9155 11.9632,34.9155 C12.0570,34.9155 12.1223,34.9725 12.1223,35.0340 C12.1215,35.0925 12.0503,35.1450 11.9557,35.1450 Z" style="fill-rule: evenodd; fill: url(#grad5786); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5787">
+        <stop offset="0%" stop-color="#addee1" stop-opacity="0.5490"/>
+        <stop offset="100%" stop-color="#eef2f1" stop-opacity="0.5490"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5787" id="grad5788" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M12.5722,38.8463 C12.3758,38.8275 12.1808,38.8035 11.9842,38.7817 C12.0660,38.7893 12.1215,38.8387 12.1215,38.8943 C12.1215,38.9557 12.0495,39.0067 11.9550,39.0067 C11.9482,39.0067 11.9295,39.0067 11.9295,39.0067 C8.4915,39.0593 4.0740,37.6020 1.2960,34.0275 C0.8700,33.6067 0.5122,33.1777 0.2377,32.7487 L0.2377,36.4267 C0.3795,36.6510 0.5468,36.8753 0.7312,37.1002 C0.6307,36.9435 0.5317,36.7882 0.4357,36.6255 C0.2452,36.3090 0.4725,36.3383 0.4725,36.3383 C1.4752,38.0347 3.6450,39.7792 6.2483,41.0122 C7.4933,41.6010 8.8380,42.0712 10.2015,42.3660 C10.7542,42.4845 11.3085,42.5753 11.8627,42.6315 C11.8837,42.6330 11.9528,42.6390 11.9610,42.6390 C12.0255,42.6390 12.0772,42.6682 12.1012,42.7050 C12.2828,42.7267 12.4613,42.7477 12.6420,42.7620 L12.6420,38.8522 C12.6188,38.8507 12.5962,38.8477 12.5722,38.8463 Z" style="fill-rule: evenodd; fill: url(#grad5788); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5789">
+        <stop offset="0%" stop-color="#c2e6e7" stop-opacity="0.6510"/>
+        <stop offset="100%" stop-color="#f1f3f4" stop-opacity="0.6510"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5789" id="grad5790" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M12.5722,23.0317 L0.2385,16.9350 L0.2385,24.8745 C0.4110,25.1468 0.6172,25.4197 0.8505,25.6890 C0.7080,25.4790 0.5692,25.2645 0.4365,25.0402 C0.2460,24.7230 0.4732,24.7538 0.4732,24.7538 C1.2765,26.1113 2.8320,27.5025 4.7557,28.6350 C7.0665,29.8702 9.8880,30.7845 12.6427,31.0320 L12.6427,23.0392 C12.6187,23.0370 12.5722,23.0317 12.5722,23.0317 Z M0.6563,17.9895 L12.2678,23.7300 C6.5093,26.9122 0.8775,21.7807 0.6563,17.9895 Z" style="fill-rule: evenodd; fill: url(#grad5790); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M11.9805,54.3652 C11.9730,54.3652 11.9025,54.3607 11.8815,54.3592 C7.1130,53.8785 2.1690,50.9010 0.4912,48.0660 C0.4912,48.0660 0.2640,48.0352 0.4545,48.3532 C3.1035,52.8502 8.1285,54.6532 11.9467,54.5947 C11.9467,54.5947 11.9647,54.5947 11.9730,54.5947 C12.0667,54.5947 12.1387,54.5437 12.1387,54.4837 C12.1387,54.4222 12.0742,54.3652 11.9805,54.3652 Z" style="fill-rule: evenodd; fill: #c0e5e2; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M11.9715,50.5373 C11.9633,50.5373 11.8943,50.5328 11.8733,50.5313 C7.1040,50.0520 2.1608,47.0745 0.4830,44.2380 C0.4830,44.2380 0.2550,44.2088 0.4455,44.5268 C3.0945,49.0238 8.1202,50.8253 11.9385,50.7683 C11.9385,50.7683 11.9572,50.7683 11.9640,50.7683 C12.0585,50.7683 12.1290,50.7158 12.1290,50.6558 C12.1290,50.5943 12.0652,50.5373 11.9715,50.5373 Z" style="fill-rule: evenodd; fill: #c0e5e2; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M11.9715,46.6500 C11.9633,46.6500 11.8943,46.6455 11.8733,46.6425 C7.1040,46.1632 2.1608,43.1872 0.4830,40.3492 C0.4830,40.3492 0.2550,40.3215 0.4455,40.6365 C3.0945,45.1365 8.1202,46.9365 11.9385,46.8795 C11.9385,46.8795 11.9572,46.8795 11.9640,46.8795 C12.0585,46.8795 12.1290,46.8270 12.1290,46.7670 C12.1290,46.7070 12.0652,46.6500 11.9715,46.6500 Z" style="fill-rule: evenodd; fill: #c0e5e2; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M12.1027,42.8723 C11.4690,42.7935 10.8345,42.6818 10.2037,42.5340 C8.8402,42.2408 7.4955,41.7690 6.2505,41.1788 C3.6472,39.9465 1.4775,38.2005 0.4747,36.5070 C0.4747,36.5070 0.2467,36.4763 0.4380,36.7928 C0.5340,36.9540 0.6330,37.1123 0.7335,37.2660 C3.4477,41.4173 8.2500,43.0920 11.9317,43.0343 C11.9317,43.0343 11.9505,43.0343 11.9572,43.0343 C12.0517,43.0343 12.1237,42.9848 12.1237,42.9233 C12.1215,42.9045 12.1140,42.8880 12.1027,42.8723 Z" style="fill-rule: evenodd; fill: #c0e5e2; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M11.9933,38.9460 C11.9843,38.9445 11.9767,38.9430 11.9655,38.9430 C11.9498,38.9415 11.8927,38.9370 11.8725,38.9355 C10.3635,38.7833 8.8365,38.3805 7.4025,37.8135 C4.3020,36.5857 1.6297,34.5802 0.4830,32.6422 C0.4830,32.6422 0.2550,32.6145 0.4455,32.9310 C0.7095,33.3780 0.9982,33.7965 1.3050,34.1925 C4.0830,37.7670 8.5005,39.2243 11.9378,39.1733 C11.9378,39.1733 11.9565,39.1733 11.9640,39.1733 C12.0585,39.1733 12.1290,39.1208 12.1290,39.0608 C12.1290,39.0030 12.0750,38.9550 11.9933,38.9460 Z" style="fill-rule: evenodd; fill: #ffffff; fill-opacity: 0.6314; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M11.9625,31.2540 C11.9542,31.2540 11.8853,31.2480 11.8643,31.2465 C9.3802,30.9960 6.8490,30.0690 4.7565,28.8367 C2.8320,27.7042 1.2772,26.3130 0.4740,24.9547 C0.4740,24.9547 0.2460,24.9247 0.4372,25.2420 C0.5700,25.4655 0.7087,25.6800 0.8512,25.8900 C3.5850,29.9115 8.3025,31.5383 11.9302,31.4835 C11.9302,31.4835 11.9490,31.4835 11.9558,31.4835 C12.0503,31.4835 12.1222,31.4325 12.1222,31.3725 C12.1215,31.3103 12.0562,31.2540 11.9625,31.2540 Z" style="fill-rule: evenodd; fill: #c0e5e2; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M11.9625,35.0978 C11.9543,35.0978 11.8852,35.0918 11.8642,35.0903 C7.0950,34.6110 2.1510,31.6335 0.4732,28.7985 C0.4732,28.7985 0.2452,28.7685 0.4365,29.0865 C3.0863,33.5828 8.1105,35.3858 11.9295,35.3287 C11.9295,35.3287 11.9482,35.3273 11.9550,35.3273 C12.0495,35.3273 12.1215,35.2763 12.1215,35.2148 C12.1215,35.1555 12.0563,35.0978 11.9625,35.0978 Z" style="fill-rule: evenodd; fill: #c0e5e2; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5791">
+        <stop offset="0%" stop-color="#436f75" stop-opacity="0.9490"/>
+        <stop offset="100%" stop-color="#4f5862" stop-opacity="0.9490"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5791" id="grad5792" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M11.9625,54.2257 C11.9543,54.2257 11.8853,54.2212 11.8643,54.2198 C7.0950,53.7405 2.1510,50.7630 0.4733,47.9265 C0.4733,47.9265 0.2453,47.8972 0.4365,48.2152 C3.0863,52.7122 8.1105,54.5137 11.9295,54.4568 C11.9295,54.4568 11.9483,54.4568 11.9550,54.4568 C12.0495,54.4568 12.1215,54.4043 12.1215,54.3442 C12.1215,54.2842 12.0563,54.2257 11.9625,54.2257 Z" style="fill-rule: evenodd; fill: url(#grad5792); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5793">
+        <stop offset="0%" stop-color="#436f75" stop-opacity="0.9490"/>
+        <stop offset="100%" stop-color="#4f5862" stop-opacity="0.9490"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5793" id="grad5794" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M11.9625,50.3648 C11.9542,50.3648 11.8853,50.3603 11.8643,50.3573 C7.0950,49.8780 2.1510,46.9005 0.4740,44.0655 C0.4740,44.0655 0.2460,44.0348 0.4373,44.3513 C3.0870,48.8498 8.1112,50.6513 11.9302,50.5928 C11.9302,50.5928 11.9490,50.5928 11.9558,50.5928 C12.0503,50.5928 12.1223,50.5418 12.1223,50.4833 C12.1215,50.4203 12.0562,50.3648 11.9625,50.3648 Z" style="fill-rule: evenodd; fill: url(#grad5794); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5795">
+        <stop offset="0%" stop-color="#436f75" stop-opacity="0.9490"/>
+        <stop offset="100%" stop-color="#4f5862" stop-opacity="0.9490"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5795" id="grad5796" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M11.9625,46.5015 C11.9543,46.5015 11.8853,46.4970 11.8643,46.4940 C7.0950,46.0148 2.1510,43.0388 0.4733,40.2023 C0.4733,40.2023 0.2453,40.1730 0.4365,40.4895 C3.0863,44.9865 8.1105,46.7895 11.9295,46.7310 C11.9295,46.7310 11.9483,46.7310 11.9550,46.7310 C12.0495,46.7310 12.1215,46.6815 12.1215,46.6185 C12.1215,46.5593 12.0563,46.5015 11.9625,46.5015 Z" style="fill-rule: evenodd; fill: url(#grad5796); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5797">
+        <stop offset="0%" stop-color="#436f75" stop-opacity="0.9490"/>
+        <stop offset="100%" stop-color="#4f5862" stop-opacity="0.9490"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5797" id="grad5798" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M12.1027,42.7065 C11.4690,42.6285 10.8345,42.5145 10.2037,42.3683 C8.8402,42.0735 7.4955,41.6033 6.2505,41.0145 C3.6472,39.7808 1.4775,38.0362 0.4747,36.3405 C0.4747,36.3405 0.2467,36.3112 0.4380,36.6277 C0.5340,36.7905 0.6330,36.9457 0.7335,37.1025 C3.4477,41.2508 8.2500,42.9270 11.9317,42.8708 C11.9317,42.8708 11.9505,42.8708 11.9572,42.8708 C12.0517,42.8708 12.1237,42.8183 12.1237,42.7583 C12.1215,42.7388 12.1140,42.7208 12.1027,42.7065 Z" style="fill-rule: evenodd; fill: url(#grad5798); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5799">
+        <stop offset="0%" stop-color="#436f75" stop-opacity="0.9490"/>
+        <stop offset="100%" stop-color="#4f5862" stop-opacity="0.9490"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5799" id="grad5800" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M11.9843,38.7818 C11.9760,38.7803 11.9663,38.7788 11.9573,38.7773 C11.9415,38.7773 11.8838,38.7728 11.8643,38.7713 C10.3553,38.6175 8.8275,38.2162 7.3935,37.6478 C4.2930,36.4200 1.6200,34.4160 0.4733,32.4780 C0.4733,32.4780 0.2453,32.4472 0.4365,32.7638 C0.7013,33.2123 0.9893,33.6322 1.2960,34.0282 C4.0740,37.6028 8.4915,39.0600 11.9295,39.0075 C11.9295,39.0075 11.9483,39.0075 11.9550,39.0075 C12.0495,39.0075 12.1215,38.9565 12.1215,38.8950 C12.1215,38.8395 12.0660,38.7893 11.9843,38.7818 Z" style="fill-rule: evenodd; fill: url(#grad5800); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5801">
+        <stop offset="0%" stop-color="#436f75" stop-opacity="0.9490"/>
+        <stop offset="100%" stop-color="#4f5862" stop-opacity="0.9490"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5801" id="grad5802" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M11.9625,31.0538 C11.9542,31.0538 11.8853,31.0493 11.8643,31.0463 C9.3802,30.7965 6.8490,29.8680 4.7565,28.6365 C2.8320,27.5040 1.2773,26.1128 0.4740,24.7552 C0.4740,24.7552 0.2460,24.7245 0.4373,25.0417 C0.5700,25.2652 0.7088,25.4805 0.8513,25.6905 C3.5850,29.7120 8.3025,31.3388 11.9302,31.2840 C11.9302,31.2840 11.9490,31.2840 11.9558,31.2840 C12.0503,31.2840 12.1223,31.2330 12.1223,31.1730 C12.1215,31.1093 12.0562,31.0538 11.9625,31.0538 Z" style="fill-rule: evenodd; fill: url(#grad5802); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5803">
+        <stop offset="0%" stop-color="#436f75" stop-opacity="0.9490"/>
+        <stop offset="100%" stop-color="#4f5862" stop-opacity="0.9490"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5803" id="grad5804" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M11.9625,34.9148 C11.9543,34.9148 11.8853,34.9103 11.8643,34.9073 C7.0950,34.4280 2.1510,31.4520 0.4733,28.6155 C0.4733,28.6155 0.2453,28.5863 0.4365,28.9035 C3.0863,33.4013 8.1105,35.2013 11.9295,35.1458 C11.9295,35.1458 11.9483,35.1443 11.9550,35.1443 C12.0495,35.1443 12.1215,35.0918 12.1215,35.0333 C12.1215,34.9718 12.0563,34.9148 11.9625,34.9148 Z" style="fill-rule: evenodd; fill: url(#grad5804); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M10.4077,57.8017 C10.0777,57.8017 9.7230,57.7448 9.3810,57.6375 C8.2042,57.2640 7.4595,56.4128 7.6860,55.6980 C7.8375,55.2202 8.4030,54.9233 9.1620,54.9233 C9.4913,54.9233 9.8460,54.9817 10.1887,55.0905 C10.7378,55.2630 11.2147,55.5517 11.5335,55.9050 C11.8710,56.2740 11.9948,56.6737 11.8830,57.0285 C11.7315,57.5055 11.1667,57.8017 10.4077,57.8017 Z M9.9375,55.4707 C9.7282,55.4707 9.5437,55.5397 9.4057,55.6717 C9.2520,55.8150 9.1703,56.0250 9.1733,56.2590 C9.1748,56.3647 9.1920,56.4712 9.2265,56.5770 C9.2835,56.7488 9.3802,56.9108 9.5077,57.0488 C9.7388,57.2932 10.0425,57.4342 10.3433,57.4342 C10.5518,57.4342 10.7363,57.3637 10.8750,57.2348 C11.0408,57.0780 11.1233,56.8507 11.1067,56.5973 C11.0903,56.3317 10.9710,56.0685 10.7715,55.8577 C10.5405,55.6132 10.2367,55.4707 9.9375,55.4707 Z" style="fill-rule: evenodd; fill: #ffffff; fill-opacity: 0.7294; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5805">
+        <stop offset="0%" stop-color="#b4e1e4" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#6dcad2" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5805" id="grad5806" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M10.1475,55.2188 C9.0600,54.8745 8.0167,55.1063 7.8157,55.7385 C7.6155,56.3700 8.3348,57.1605 9.4222,57.5062 C10.5105,57.8505 11.5545,57.6172 11.7540,56.9865 C11.9543,56.3542 11.2350,55.5630 10.1475,55.2188 Z M10.9680,57.3330 C10.5645,57.7140 9.8663,57.6277 9.4088,57.1410 C9.2625,56.9828 9.1575,56.8042 9.0975,56.6212 C9.0585,56.5012 9.0375,56.3797 9.0360,56.2613 C9.0330,55.9988 9.1237,55.7498 9.3120,55.5727 C9.7163,55.1932 10.4145,55.2795 10.8720,55.7647 C11.3295,56.2500 11.3723,56.9535 10.9680,57.3330 Z" style="fill-rule: evenodd; fill: url(#grad5806); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M9.3120,55.5720 C9.1238,55.7490 9.0330,55.9980 9.0360,56.2605 C9.0443,56.0730 9.1140,55.9005 9.2483,55.7715 C9.3570,55.6687 9.4958,55.6118 9.6412,55.5960 C9.9330,55.5210 10.2788,55.6223 10.5255,55.8847 C10.8623,56.2425 10.8885,56.7623 10.5930,57.0622 C10.5743,57.0870 10.5525,57.1103 10.5300,57.1343 C10.2173,57.4275 9.6788,57.3615 9.3248,56.9850 C9.2198,56.8755 9.1448,56.7495 9.0975,56.6220 C9.1575,56.8050 9.2618,56.9835 9.4088,57.1418 C9.8663,57.6278 10.5653,57.7148 10.9680,57.3338 C11.3723,56.9543 11.3295,56.2515 10.8720,55.7648 C10.4145,55.2795 9.7163,55.1925 9.3120,55.5720 Z" style="fill-rule: evenodd; fill: #49a7b7; "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad5807" cx="50.0000%" cy="50.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#b3e1e3" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#8bd3d9" stop-opacity="1.0000"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M10.5300,57.1335 C10.5533,57.1102 10.5750,57.0862 10.5930,57.0615 C10.8885,56.7615 10.8615,56.2410 10.5255,55.8840 C10.2788,55.6215 9.9330,55.5210 9.6413,55.5953 C9.4958,55.6110 9.3570,55.6687 9.2482,55.7707 C9.1140,55.8997 9.0443,56.0722 9.0360,56.2597 C9.0375,56.3782 9.0585,56.4997 9.0975,56.6197 C9.1448,56.7473 9.2205,56.8732 9.3248,56.9827 C9.6788,57.3607 10.2173,57.4267 10.5300,57.1335 Z" style="fill-rule: evenodd; fill: url(#grad5807); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5808">
+        <stop offset="0%" stop-color="#d6eef0" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#46a3b6" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5808" id="grad5809" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.6563,17.9895 C0.8775,21.7800 6.5093,26.9115 12.2677,23.7300 L0.6563,17.9895 Z M2.8822,19.2360 L10.3050,22.8735 C6.5520,24.7358 2.9790,21.5445 2.8822,19.2360 Z" style="fill-rule: evenodd; fill: url(#grad5809); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5810">
+        <stop offset="0%" stop-color="#5fc4cc" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#195669" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5810" id="grad5811" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M2.8822,19.2360 C2.9790,21.5445 6.5520,24.7357 10.3050,22.8735 L2.8822,19.2360 Z" style="fill-rule: evenodd; fill: url(#grad5811); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5812">
+        <stop offset="0%" stop-color="#8ad4e0" stop-opacity="0.7216"/>
+        <stop offset="100%" stop-color="#79bdc3" stop-opacity="0.7216"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5812" id="grad5813" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M13.7092,21.7118 L13.6582,21.7455 L13.6455,60.4455 L38.4315,46.1633 L38.4285,44.0483 L23.3558,52.7085 L23.3558,52.0957 L37.8892,43.7565 L38.4285,43.4475 L38.4285,41.1682 L23.3558,49.8300 L23.3558,49.2180 L37.8892,40.8780 L38.4285,40.5675 L38.4285,38.2897 L23.3558,46.9500 L23.3558,46.3380 L37.9275,38.0175 L38.4285,37.7318 L38.4188,6.7260 L13.7092,21.7118 Z" style="fill-rule: evenodd; fill: url(#grad5813); "/>
+    <defs xmlns="http://www.w3.org/2000/svg">
+      <radialGradient id="grad5814" cx="0.0000%" cy="100.0000%" r="100.0000%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.7098"/>
+        <stop offset="100%" stop-color="#81d1e0" stop-opacity="0.7098"/>
+      </radialGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M13.6613,21.7373 L13.6523,21.9172 L13.6478,60.4545 L38.4375,46.1490 L38.4375,44.0205 L23.3445,52.7640 L23.3445,52.1520 L37.9027,43.7655 L38.4375,43.4460 L38.4247,41.1345 L23.3445,49.8840 L23.3445,49.2735 L37.9027,40.8712 L38.4458,40.5533 L38.4285,38.2493 L23.3445,47.0055 L23.3445,46.3935 L37.9268,38.0190 L38.4285,37.7228 L38.4173,6.7282 L13.6613,21.7373 Z" style="fill-rule: evenodd; fill: url(#grad5814); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5815">
+        <stop offset="0%" stop-color="#a4d6d5" stop-opacity="0.6510"/>
+        <stop offset="100%" stop-color="#f1f3f4" stop-opacity="0.6510"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5815" id="grad5816" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M26.3505,0.0000 L0.0052,15.1462 L13.6545,21.7395 L38.4187,6.7260 L26.3505,0.0000 Z" style="fill-rule: evenodd; fill: url(#grad5816); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M13.7025,21.7162 L13.6560,21.7410 L13.6515,21.9773 L38.4232,6.8828 L38.4210,6.7222 L13.7025,21.7162 Z" style="fill-rule: evenodd; fill: #cde8e5; "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M0.0030,15.1462 L0.0030,15.4095 L13.6605,21.9765 L13.6560,21.7402 L0.0030,15.1462 Z" style="fill-rule: evenodd; fill: #f2f3f4; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5817">
+        <stop offset="0%" stop-color="#69c9df" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#a8dde3" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5817" id="grad5818" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M13.6432,61.0800 L13.8720,60.9480 L13.8262,21.8670 L13.6597,21.9705 L13.6432,61.0800 Z" style="fill-rule: evenodd; fill: url(#grad5818); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5819">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.4510"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.4510"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5819" id="grad5820" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M24.5235,14.9760 L30.9615,11.2785 L10.3388,9.1830 L3.5573,13.0508 L24.5235,14.9760 Z" style="fill-rule: evenodd; fill: url(#grad5820); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5821">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.2510"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.2510"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5821" id="grad5822" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(-0 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M25.0740,14.8245 L31.1873,11.1263 L36.7170,23.5238 L33.8190,31.6732 L25.0740,14.8245 Z" style="fill-rule: evenodd; fill: url(#grad5822); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5823">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.2510"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.2510"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5823" id="grad5824" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(-0 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M32.7915,10.2780 L35.9280,8.3918 L38.4458,13.8630 L38.4375,22.7078 L32.7915,10.2780 Z" style="fill-rule: evenodd; fill: url(#grad5824); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5825">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.4510"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.4510"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5825" id="grad5826" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M32.7742,10.3650 L36.0083,8.2837 L15.8205,6.0727 L12.4560,7.9755 L32.7742,10.3650 Z" style="fill-rule: evenodd; fill: url(#grad5826); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5827">
+        <stop offset="0%" stop-color="#69c9df" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#71cbde" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5827" id="grad5828" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M13.9740,60.0210 L13.8592,60.0795 L13.8600,60.3285 L38.4413,46.1633 L38.4390,46.0020 L13.9740,60.0210 Z" style="fill-rule: evenodd; fill: url(#grad5828); "/>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M38.4420,46.8180 L37.8945,46.4797 L38.4413,46.1632 L38.4420,46.8180 Z" style="fill-rule: evenodd; fill: #7eb9c2; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5829">
+        <stop offset="0%" stop-color="#69c9df" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#cde8e5" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5829" id="grad5830" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M38.2020,37.8487 L38.4300,37.7175 L38.4202,6.8760 L38.2560,6.9810 L38.2020,37.8487 Z" style="fill-rule: evenodd; fill: url(#grad5830); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5831">
+        <stop offset="0%" stop-color="#69c9df" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7acedf" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5831" id="grad5832" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M38.2050,38.3820 L38.1967,40.7070 L38.4255,40.5735 L38.4285,38.2560 L38.2050,38.3820 Z" style="fill-rule: evenodd; fill: url(#grad5832); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5833">
+        <stop offset="0%" stop-color="#69c9df" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7acedf" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5833" id="grad5834" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M38.2035,41.2605 L38.1975,43.5967 L38.4255,43.4670 L38.4285,41.1360 L38.2035,41.2605 Z" style="fill-rule: evenodd; fill: url(#grad5834); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5835">
+        <stop offset="0%" stop-color="#69c9df" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#7acedf" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5835" id="grad5836" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M38.2035,44.1390 L38.2103,46.1400 L38.4390,46.0095 L38.4285,44.0160 L38.2035,44.1390 Z" style="fill-rule: evenodd; fill: url(#grad5836); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad5837">
+        <stop offset="0%" stop-color="#69c9df" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#a8dde3" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad5837" id="grad5838" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M13.8285,21.8707 L13.8315,22.1152 L38.2537,7.1438 L38.2515,6.9832 L13.8285,21.8707 Z" style="fill-rule: evenodd; fill: url(#grad5838); "/>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

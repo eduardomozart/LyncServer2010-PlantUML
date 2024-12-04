@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="0.5491000000" height="0.8363000000" viewBox="0 0 39.5362 60.2168">
+  <title><![CDATA[Storage]]></title>
+  <g transform=" scale(1.000000) ">
+    <path xmlns="http://www.w3.org/2000/svg" d="  M39.5340,11.3550 C39.5250,5.0978 30.6698,0.0240 19.7647,0.0240 C8.8537,0.0240 0.0075,5.1007 0.0075,11.3625 C0.0075,11.4285 0.0098,11.5080 0.0120,11.5740 L0.0173,48.8355 C0.0173,48.8505 0.0150,48.8640 0.0150,48.8782 C0.0150,48.8932 0.0173,48.9060 0.0173,48.9210 L0.0173,48.9533 L0.0188,48.9533 C0.0885,55.1805 8.9040,60.2168 19.7715,60.2168 C30.6390,60.2168 39.4545,55.1805 39.5235,48.9533 L39.5362,48.9533 L39.5362,11.3535 L39.5205,11.3535" style="stroke-width: 1.5000; stroke: #8d98b5; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; fill: none; "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad4762">
+        <stop offset="0%" stop-color="#f9c33c" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#f9c33c" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad4762" id="grad4763" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M39.5123,11.3288 C39.5123,11.3318 39.5130,11.3347 39.5130,11.3385 C39.5130,17.6003 30.6682,22.6770 19.7565,22.6770 C8.9610,22.6770 0.1942,17.7068 0.0090,11.5357 L0.0090,48.8115 C0.0090,48.8265 0.0067,48.8408 0.0067,48.8543 C0.0067,48.8693 0.0090,48.8828 0.0090,48.8970 L0.0090,48.9300 L0.0105,48.9300 C0.0810,55.1573 8.8957,60.1935 19.7633,60.1935 C30.6307,60.1935 39.4463,55.1573 39.5160,48.9300 L39.5280,48.9300 L39.5280,11.3288 L39.5123,11.3288 Z" style="fill-rule: evenodd; fill: url(#grad4763); "/>
+    <defs xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <linearGradient id="grad4764">
+        <stop offset="0%" stop-color="#f9c33c" stop-opacity="1.0000"/>
+        <stop offset="100%" stop-color="#fffce3" stop-opacity="1.0000"/>
+      </linearGradient>
+      <linearGradient xlink:href="#grad4764" id="grad4765" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(-0 .5 .5)" gradientUnits="objectBoundingBox">
+  </linearGradient>
+    </defs>
+    <path xmlns="http://www.w3.org/2000/svg" d="  M19.7565,22.6770 C30.6682,22.6770 39.5130,17.6002 39.5130,11.3385 C39.5130,11.3355 39.5122,11.3317 39.5122,11.3287 C39.5025,5.0707 30.6622,0.0000 19.7565,0.0000 C8.8455,0.0000 0.0000,5.0767 0.0000,11.3385 C0.0000,11.4045 0.0067,11.4697 0.0090,11.5357 C0.1942,17.7067 8.9610,22.6770 19.7565,22.6770 Z" style="fill-rule: evenodd; fill: url(#grad4765); "/>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>
